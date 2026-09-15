@@ -26,7 +26,7 @@ class ProblemRepositoryImpl(
             dao.insertProblems(seedProblems)
             dao.insertSheetMemberships(seedMemberships)
         }
-        ensureStarterProblemsTracked(SourceSheet.NEETCODE_150, 15)
+        ensureStarterProblemsTracked(SourceSheet.NEETCODE_150, 3)
     }
 
     override fun observeAllProblems(): Flow<List<Problem>> {
@@ -73,12 +73,23 @@ class ProblemRepositoryImpl(
     }
 
     override suspend fun ensureStarterProblemsTracked(targetSheet: SourceSheet, count: Int) {
+        val unattemptedTrackedCount = dao.getUnattemptedTrackedProblemCount()
+        if (unattemptedTrackedCount > count) {
+            dao.trimUnattemptedTrackedProblems(targetSheet.name, count)
+        }
         val trackedCount = dao.getTrackedProblemCount()
-        if (trackedCount < 5) {
+        if (trackedCount < count) {
             val topIds = dao.getTopProblemIdsForSheet(targetSheet.name, count)
             if (topIds.isNotEmpty()) {
                 dao.setBulkProblemTracking(topIds, isTracking = true, dueDate = System.currentTimeMillis())
             }
+        }
+    }
+
+    override suspend fun activateMoreStarterProblems(targetSheet: SourceSheet, count: Int) {
+        val untrackedIds = dao.getUntrackedProblemIdsForSheet(targetSheet.name, count)
+        if (untrackedIds.isNotEmpty()) {
+            dao.setBulkProblemTracking(untrackedIds, isTracking = true, dueDate = System.currentTimeMillis())
         }
     }
 

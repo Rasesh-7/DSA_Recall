@@ -39,6 +39,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.ui.graphics.Color
 import com.example.dsarecall.domain.model.Problem
 import com.example.dsarecall.domain.model.TopicTag
 import com.example.dsarecall.ui.bank.ProblemDetailSheet
@@ -48,9 +50,14 @@ import com.example.dsarecall.ui.components.LogRecallButton
 import com.example.dsarecall.ui.components.MemoryDecayIndicator
 import com.example.dsarecall.ui.components.TopicTagRow
 import com.example.dsarecall.ui.log.RecallLogBottomSheet
+import com.example.dsarecall.ui.theme.GlowingGreen
+import com.example.dsarecall.ui.theme.MauvePrimary
 import com.example.dsarecall.ui.theme.MinimalistBackground
 import com.example.dsarecall.ui.theme.MinimalistSurfaceVariant
+import com.example.dsarecall.ui.theme.ObsidianVoid
+import com.example.dsarecall.ui.theme.PaleLilac
 import com.example.dsarecall.ui.theme.SapphirePrimary
+import com.example.dsarecall.ui.theme.SoftLavender
 import com.example.dsarecall.ui.theme.SolitaryGreen
 import com.example.dsarecall.ui.theme.TextMuted
 import com.example.dsarecall.ui.theme.TextPrimary
@@ -104,11 +111,12 @@ fun DailyQueueScreen(
                     selected = state.selectedTopicFilter == null,
                     onClick = { viewModel.filterByTopic(null) },
                     label = { Text("All (${state.totalDueTodayCount})") },
+                    shape = RoundedCornerShape(9999.dp),
                     colors = FilterChipDefaults.filterChipColors(
-                        selectedContainerColor = SapphirePrimary,
-                        selectedLabelColor = MinimalistBackground,
-                        containerColor = MinimalistSurfaceVariant,
-                        labelColor = TextSecondary
+                        selectedContainerColor = MauvePrimary,
+                        selectedLabelColor = ObsidianVoid,
+                        containerColor = Color(0xFF251F33),
+                        labelColor = SoftLavender
                     )
                 )
 
@@ -123,11 +131,12 @@ fun DailyQueueScreen(
                             }
                         },
                         label = { Text(topic.displayName) },
+                        shape = RoundedCornerShape(9999.dp),
                         colors = FilterChipDefaults.filterChipColors(
-                            selectedContainerColor = SapphirePrimary,
-                            selectedLabelColor = MinimalistBackground,
-                            containerColor = MinimalistSurfaceVariant,
-                            labelColor = TextSecondary
+                            selectedContainerColor = MauvePrimary,
+                            selectedLabelColor = ObsidianVoid,
+                            containerColor = Color(0xFF251F33),
+                            labelColor = SoftLavender
                         )
                     )
                 }
@@ -139,39 +148,42 @@ fun DailyQueueScreen(
                 }
             } else if (state.dueProblems.isEmpty()) {
                 Box(
-                    modifier = Modifier.fillMaxSize().padding(32.dp),
+                    modifier = Modifier.fillMaxSize().padding(24.dp),
                     contentAlignment = Alignment.Center
                 ) {
                     Column(horizontalAlignment = Alignment.CenterHorizontally) {
                         Icon(
                             imageVector = Icons.Default.CheckCircle,
                             contentDescription = null,
-                            tint = SolitaryGreen,
+                            tint = GlowingGreen,
                             modifier = Modifier.size(64.dp)
                         )
                         Spacer(modifier = Modifier.height(16.dp))
                         Text(
-                            text = "Daily Queue Clear 🎉",
-                            color = TextPrimary,
-                            fontSize = 20.sp,
+                            text = "Daily Queue Complete! 🎉",
+                            color = PaleLilac,
+                            fontSize = 22.sp,
                             fontWeight = FontWeight.Bold
                         )
                         Spacer(modifier = Modifier.height(8.dp))
                         Text(
-                            text = "No active cards due right now. Tap below to populate your daily queue with 15 core DSA revision cards!",
-                            color = TextMuted,
-                            fontSize = 13.sp,
-                            textAlign = androidx.compose.ui.text.style.TextAlign.Center
+                            text = "Awesome job! You've cleared your scheduled recall cards for today. Your memory retention intervals are updating in the background.",
+                            color = SoftLavender.copy(alpha = 0.75f),
+                            fontSize = 14.sp,
+                            textAlign = androidx.compose.ui.text.style.TextAlign.Center,
+                            modifier = Modifier.padding(horizontal = 16.dp)
                         )
-                        Spacer(modifier = Modifier.height(20.dp))
+                        Spacer(modifier = Modifier.height(24.dp))
                         androidx.compose.material3.Button(
-                            onClick = { viewModel.addStarterProblems() },
-                            colors = androidx.compose.material3.ButtonDefaults.buttonColors(containerColor = SapphirePrimary)
+                            onClick = { viewModel.addStarterProblems(state.dailyQuota) },
+                            shape = RoundedCornerShape(9999.dp),
+                            colors = androidx.compose.material3.ButtonDefaults.buttonColors(containerColor = MauvePrimary)
                         ) {
                             Text(
-                                text = "Start Daily Revision (Add 15 Cards)",
-                                color = MinimalistBackground,
-                                fontWeight = FontWeight.Bold
+                                text = "Add ${state.dailyQuota} More Questions (+${state.dailyQuota} Cards)",
+                                color = ObsidianVoid,
+                                fontWeight = FontWeight.Bold,
+                                fontSize = 15.sp
                             )
                         }
                     }

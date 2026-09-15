@@ -40,6 +40,7 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.ui.graphics.Color
 import com.example.dsarecall.domain.model.Difficulty
 import com.example.dsarecall.domain.model.Problem
 import com.example.dsarecall.domain.model.SolutionReliance
@@ -48,12 +49,19 @@ import com.example.dsarecall.ui.theme.DifficultyEasy
 import com.example.dsarecall.ui.theme.DifficultyHard
 import com.example.dsarecall.ui.theme.DifficultyMedium
 import com.example.dsarecall.ui.theme.FailedRed
+import com.example.dsarecall.ui.theme.GlassBorderLight
+import com.example.dsarecall.ui.theme.GlassBorderMauve
+import com.example.dsarecall.ui.theme.GlowingGreen
 import com.example.dsarecall.ui.theme.HintYellow
+import com.example.dsarecall.ui.theme.MauvePrimary
 import com.example.dsarecall.ui.theme.MinimalistBorder
 import com.example.dsarecall.ui.theme.MinimalistSurface
 import com.example.dsarecall.ui.theme.MinimalistSurfaceVariant
+import com.example.dsarecall.ui.theme.ObsidianGlassCard
+import com.example.dsarecall.ui.theme.ObsidianVoid
 import com.example.dsarecall.ui.theme.SapphirePrimary
 import com.example.dsarecall.ui.theme.SlateSecondary
+import com.example.dsarecall.ui.theme.SoftLavender
 import com.example.dsarecall.ui.theme.SolitaryGreen
 import com.example.dsarecall.ui.theme.SolutionOrange
 import com.example.dsarecall.ui.theme.TextMuted
@@ -70,10 +78,10 @@ fun DifficultyChip(difficulty: Difficulty, modifier: Modifier = Modifier) {
 
     Box(
         modifier = modifier
-            .clip(RoundedCornerShape(8.dp))
-            .background(color.copy(alpha = 0.12f))
-            .border(1.dp, color.copy(alpha = 0.3f), RoundedCornerShape(8.dp))
-            .padding(horizontal = 10.dp, vertical = 4.dp)
+            .clip(RoundedCornerShape(9999.dp))
+            .background(color.copy(alpha = 0.15f))
+            .border(1.dp, color.copy(alpha = 0.35f), RoundedCornerShape(9999.dp))
+            .padding(horizontal = 12.dp, vertical = 4.dp)
     ) {
         Text(
             text = label,
@@ -88,14 +96,14 @@ fun DifficultyChip(difficulty: Difficulty, modifier: Modifier = Modifier) {
 fun TopicTagChip(tag: TopicTag, modifier: Modifier = Modifier) {
     Box(
         modifier = modifier
-            .clip(RoundedCornerShape(8.dp))
-            .background(MinimalistSurfaceVariant)
-            .border(1.dp, MinimalistBorder, RoundedCornerShape(8.dp))
-            .padding(horizontal = 10.dp, vertical = 4.dp)
+            .clip(RoundedCornerShape(9999.dp))
+            .background(Color(0xFF251F33))
+            .border(1.dp, GlassBorderLight, RoundedCornerShape(9999.dp))
+            .padding(horizontal = 12.dp, vertical = 4.dp)
     ) {
         Text(
             text = tag.displayName,
-            color = TextSecondary,
+            color = SoftLavender,
             fontSize = 11.sp,
             fontWeight = FontWeight.Medium
         )
@@ -125,22 +133,22 @@ fun MemoryDecayIndicator(problem: Problem, modifier: Modifier = Modifier) {
     val (bgColor, textColor, text) = when {
         !problem.isTracking && problem.totalAttempts == 0 -> Triple(
             TextMuted.copy(alpha = 0.12f),
-            TextSecondary,
+            SoftLavender.copy(alpha = 0.7f),
             "Not Started"
         )
         isDue && daysUntilDue < -1 -> Triple(
-            FailedRed.copy(alpha = 0.12f),
+            FailedRed.copy(alpha = 0.15f),
             FailedRed,
             "Overdue by ${-daysUntilDue}d"
         )
         isDue -> Triple(
-            HintYellow.copy(alpha = 0.12f),
+            HintYellow.copy(alpha = 0.15f),
             HintYellow,
             "Due Today"
         )
         else -> Triple(
-            SolitaryGreen.copy(alpha = 0.12f),
-            SolitaryGreen,
+            GlowingGreen.copy(alpha = 0.15f),
+            GlowingGreen,
             "Due in ${daysUntilDue + 1}d • Int: ${problem.intervalDays}d"
         )
     }
@@ -148,9 +156,9 @@ fun MemoryDecayIndicator(problem: Problem, modifier: Modifier = Modifier) {
     Row(
         verticalAlignment = Alignment.CenterVertically,
         modifier = modifier
-            .clip(RoundedCornerShape(20.dp))
+            .clip(RoundedCornerShape(9999.dp))
             .background(bgColor)
-            .border(1.dp, textColor.copy(alpha = 0.25f), RoundedCornerShape(20.dp))
+            .border(1.dp, textColor.copy(alpha = 0.3f), RoundedCornerShape(9999.dp))
             .padding(horizontal = 12.dp, vertical = 5.dp)
     ) {
         Icon(
@@ -176,23 +184,22 @@ fun GlassCard(
     content: @Composable () -> Unit
 ) {
     Card(
-        colors = CardDefaults.cardColors(containerColor = MinimalistSurface),
+        colors = CardDefaults.cardColors(containerColor = ObsidianGlassCard.copy(alpha = 0.85f)),
         border = BorderStroke(
             1.dp,
-            Brush.linearGradient(
+            Brush.verticalGradient(
                 colors = listOf(
-                    SapphirePrimary.copy(alpha = 0.35f),
-                    MinimalistBorder,
-                    SlateSecondary.copy(alpha = 0.20f)
+                    GlassBorderLight,
+                    GlassBorderMauve
                 )
             )
         ),
-        shape = RoundedCornerShape(16.dp),
+        shape = RoundedCornerShape(24.dp),
         modifier = modifier.then(
             if (onClick != null) Modifier.clickable { onClick() } else Modifier
         )
     ) {
-        Box(modifier = Modifier.padding(16.dp)) {
+        Box(modifier = Modifier.padding(18.dp)) {
             content()
         }
     }
@@ -205,20 +212,20 @@ fun LogRecallButton(
 ) {
     Button(
         onClick = onLogRecall,
-        colors = ButtonDefaults.buttonColors(containerColor = SapphirePrimary),
-        shape = RoundedCornerShape(10.dp),
+        colors = ButtonDefaults.buttonColors(containerColor = MauvePrimary),
+        shape = RoundedCornerShape(9999.dp),
         modifier = modifier.height(44.dp)
     ) {
         Icon(
             imageVector = Icons.Default.FactCheck,
             contentDescription = "Log Recall Check",
-            tint = MaterialTheme.colorScheme.onPrimary,
+            tint = ObsidianVoid,
             modifier = Modifier.size(18.dp)
         )
         Spacer(modifier = Modifier.width(8.dp))
         Text(
-            text = "Checklist Recall Log",
-            color = MaterialTheme.colorScheme.onPrimary,
+            text = "Recall Check",
+            color = ObsidianVoid,
             fontWeight = FontWeight.Bold,
             fontSize = 13.sp
         )

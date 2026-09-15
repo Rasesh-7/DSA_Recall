@@ -15,18 +15,27 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.launch
 
+import com.example.dsarecall.domain.repository.AuthRepository
+import com.example.dsarecall.domain.sync.SyncEngine
+
+import com.example.dsarecall.data.repository.OnboardingRepository
+
 data class DailyQueueUiState(
     val dueProblems: List<Problem> = emptyList(),
     val selectedTopicFilter: TopicTag? = null,
     val selectedProblemForLogging: Problem? = null,
     val isLoading: Boolean = true,
-    val totalDueTodayCount: Int = 0
+    val totalDueTodayCount: Int = 0,
+    val dailyQuota: Int = 3
 )
 
 class DailyQueueViewModel(
     private val getDailyQueueUseCase: GetDailyQueueUseCase,
     private val logRecallAttemptUseCase: LogRecallAttemptUseCase,
-    private val repository: ProblemRepository
+    private val repository: ProblemRepository,
+    private val syncEngine: SyncEngine? = null,
+    private val authRepository: AuthRepository? = null,
+    private val onboardingRepository: OnboardingRepository? = null
 ) : ViewModel() {
 
     private val _uiState = MutableStateFlow(DailyQueueUiState())
@@ -34,17 +43,21 @@ class DailyQueueViewModel(
 
     init {
         viewModelScope.launch {
+            val quota = onboardingRepository?.getDailyQuota() ?: 3
+            _uiState.value = _uiState.value.copy(dailyQuota = quota)
+
             if (repository is ProblemRepositoryImpl) {
                 repository.seedInitialDataIfEmpty()
             }
-            repository.ensureStarterProblemsTracked()
+            repository.ensureStarterProblemsTracked(count = quota)
             observeDueProblems()
         }
     }
 
-    fun addStarterProblems() {
+    fun addStarterProblems(count: Int? = null) {
         viewModelScope.launch {
-            repository.ensureStarterProblemsTracked(count = 15)
+            val batchCount = count ?: _uiState.value.dailyQuota
+            repository.activateMoreStarterProblems(count = batchCount)
         }
     }
 
@@ -68,6 +81,7 @@ class DailyQueueViewModel(
     fun toggleProblemTracking(problemId: String, isTracking: Boolean) {
         viewModelScope.launch {
             repository.setProblemTracking(problemId, isTracking)
+            triggerAutoSync()
         }
     }
 
@@ -84,6 +98,16 @@ class DailyQueueViewModel(
         viewModelScope.launch {
             logRecallAttemptUseCase(problem.id, attempt)
             closeRecallLogSheet()
+            triggerAutoSync()
+        }
+    }
+
+    private fun triggerAutoSync() {
+        val user = authRepository?.currentUser
+        if (user != null && syncEngine != null) {
+            viewModelScope.launch {
+                syncEngine.performSync(user.id)
+            }
         }
     }
 }

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096430490457",
+    "project_id": "dsa-recall-4baeb",
+    "storage_bucket": "dsa-recall-4baeb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096430490457:android:1f0b23614ab1544030f248",
+        "android_client_info": {
+          "package_name": "com.example.dsarecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096430490457-g92cb9uqt3akpjfbutfg67m5tdggt287.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dsarecall",
+            "certificate_hash": "0ade9ba46e9f0fb014a9085b4db3a81df463ccb2"
+          }
+        },
+        {
+          "client_id": "1096430490457-mhlfh22veqo3kpuuqcjo6h4f2hn717bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ErEQeiuIleI1tJ1AwisXZeP79xE-dro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096430490457-mhlfh22veqo3kpuuqcjo6h4f2hn717bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

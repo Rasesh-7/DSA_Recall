@@ -33,13 +33,16 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.ui.graphics.Color
 import com.example.dsarecall.ui.components.GlassCard
 import com.example.dsarecall.ui.theme.DifficultyEasy
 import com.example.dsarecall.ui.theme.DifficultyHard
 import com.example.dsarecall.ui.theme.DifficultyMedium
+import com.example.dsarecall.ui.theme.MauvePrimary
 import com.example.dsarecall.ui.theme.MinimalistBackground
 import com.example.dsarecall.ui.theme.MinimalistSurfaceVariant
 import com.example.dsarecall.ui.theme.SapphirePrimary
+import com.example.dsarecall.ui.theme.SoftLavender
 import com.example.dsarecall.ui.theme.TextMuted
 import com.example.dsarecall.ui.theme.TextPrimary
 import com.example.dsarecall.ui.theme.TextSecondary
@@ -91,14 +94,14 @@ fun AnalyticsScreen(
                                 Column {
                                     Text(
                                         text = "Placement Readiness Index",
-                                        color = TextMuted,
+                                        color = SoftLavender.copy(alpha = 0.7f),
                                         fontSize = 12.sp,
                                         fontWeight = FontWeight.SemiBold
                                     )
                                     Text(
                                         text = "${state.placementReadinessIndex}%",
-                                        color = SapphirePrimary,
-                                        fontSize = 32.sp,
+                                        color = MauvePrimary,
+                                        fontSize = 34.sp,
                                         fontWeight = FontWeight.ExtraBold
                                     )
                                 }
@@ -106,7 +109,7 @@ fun AnalyticsScreen(
                                 Icon(
                                     imageVector = Icons.Default.TrendingUp,
                                     contentDescription = null,
-                                    tint = SapphirePrimary,
+                                    tint = MauvePrimary,
                                     modifier = Modifier.size(36.dp)
                                 )
                             }
@@ -115,12 +118,12 @@ fun AnalyticsScreen(
 
                             LinearProgressIndicator(
                                 progress = { state.placementReadinessIndex / 100f },
-                                color = SapphirePrimary,
-                                trackColor = MinimalistSurfaceVariant,
+                                color = MauvePrimary,
+                                trackColor = Color(0xFF251F33),
                                 modifier = Modifier
                                     .fillMaxWidth()
                                     .height(8.dp)
-                                    .clip(RoundedCornerShape(4.dp))
+                                    .clip(RoundedCornerShape(9999.dp))
                             )
 
                             Spacer(modifier = Modifier.height(12.dp))
@@ -131,12 +134,12 @@ fun AnalyticsScreen(
                             ) {
                                 Text(
                                     text = "Independent Solves: ${state.solitarySolvedRatio}%",
-                                    color = TextSecondary,
+                                    color = SoftLavender,
                                     fontSize = 12.sp
                                 )
                                 Text(
                                     text = "Total Problems: ${state.totalProblems}",
-                                    color = TextSecondary,
+                                    color = SoftLavender,
                                     fontSize = 12.sp
                                 )
                             }

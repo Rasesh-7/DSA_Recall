@@ -50,8 +50,17 @@ interface ProblemDao {
     @Query("SELECT COUNT(*) FROM problems WHERE isTracking = 1")
     suspend fun getTrackedProblemCount(): Int
 
+    @Query("SELECT COUNT(*) FROM problems WHERE isTracking = 1 AND totalAttempts = 0")
+    suspend fun getUnattemptedTrackedProblemCount(): Int
+
+    @Query("UPDATE problems SET isTracking = 0 WHERE totalAttempts = 0 AND id NOT IN (SELECT p.id FROM problems p INNER JOIN sheet_memberships sm ON p.id = sm.problemId WHERE sm.sourceSheet = :sheet ORDER BY sm.position ASC LIMIT :count)")
+    suspend fun trimUnattemptedTrackedProblems(sheet: String, count: Int)
+
     @Query("SELECT p.id FROM problems p INNER JOIN sheet_memberships sm ON p.id = sm.problemId WHERE sm.sourceSheet = :sheet ORDER BY sm.position ASC LIMIT :limit")
     suspend fun getTopProblemIdsForSheet(sheet: String, limit: Int): List<String>
+
+    @Query("SELECT p.id FROM problems p INNER JOIN sheet_memberships sm ON p.id = sm.problemId WHERE sm.sourceSheet = :sheet AND p.isTracking = 0 ORDER BY sm.position ASC LIMIT :limit")
+    suspend fun getUntrackedProblemIdsForSheet(sheet: String, limit: Int): List<String>
 
     @Query("UPDATE problems SET isTracking = :isTracking WHERE id = :id")
     suspend fun setProblemTracking(id: String, isTracking: Boolean)

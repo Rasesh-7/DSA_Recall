@@ -24,6 +24,7 @@ data class OnboardingUiState(
     val currentStep: Int = 0, // 0: Goal, 1: Checkoff, 2: Quiz, 3: Baseline Result
     val selectedSheet: SourceSheet = SourceSheet.NEETCODE_150,
     val selectedTimeline: String = "INTERVIEWS", // "INTERVIEWS", "PLACEMENT", "MASTERY"
+    val dailyQuota: Int = 3, // 3: Paced, 5: Balanced, 10: Intensive
     val sampleProblems: List<Problem> = emptyList(),
     val knownProblemIds: Set<String> = emptySet(),
     val needReviewProblemIds: Set<String> = emptySet(),
@@ -89,6 +90,10 @@ class OnboardingViewModel(
 
     fun selectTimeline(timeline: String) {
         _uiState.value = _uiState.value.copy(selectedTimeline = timeline)
+    }
+
+    fun selectDailyQuota(quota: Int) {
+        _uiState.value = _uiState.value.copy(dailyQuota = quota)
     }
 
     fun toggleProblemKnown(problemId: String) {
@@ -170,14 +175,15 @@ class OnboardingViewModel(
                 repository.bulkUpdateTracking(reviewIds, isTracking = true, initialDueDate = now)
             }
 
-            // 3. Ensure starter problems for chosen sheet are active & due today
-            repository.ensureStarterProblemsTracked(targetSheet = _uiState.value.selectedSheet, count = 15)
+            // 3. Ensure starter problems for chosen sheet are active & due today using user's chosen quota
+            repository.ensureStarterProblemsTracked(targetSheet = _uiState.value.selectedSheet, count = _uiState.value.dailyQuota)
 
             // 4. Save Onboarding preferences
             onboardingRepository.saveUserPreferences(
                 targetSheet = _uiState.value.selectedSheet.name,
                 goalTimeline = _uiState.value.selectedTimeline,
-                baselineScore = _uiState.value.baselineScorePercentage
+                baselineScore = _uiState.value.baselineScorePercentage,
+                dailyQuota = _uiState.value.dailyQuota
             )
             onboardingRepository.setOnboardingCompleted(true)
             _uiState.value = _uiState.value.copy(isCompleted = true)

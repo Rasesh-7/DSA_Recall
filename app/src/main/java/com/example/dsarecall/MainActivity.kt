@@ -7,13 +7,17 @@ import androidx.activity.enableEdgeToEdge
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.example.dsarecall.data.local.AppDatabase
+import com.example.dsarecall.data.repository.FirebaseAuthRepositoryImpl
+import com.example.dsarecall.data.repository.FirebaseCloudStorageRepositoryImpl
 import com.example.dsarecall.data.repository.OnboardingRepository
 import com.example.dsarecall.data.repository.ProblemRepositoryImpl
+import com.example.dsarecall.domain.sync.SyncEngine
 import com.example.dsarecall.domain.usecase.GetAnalyticsUseCase
 import com.example.dsarecall.domain.usecase.GetDailyQueueUseCase
 import com.example.dsarecall.domain.usecase.GetProblemBankUseCase
 import com.example.dsarecall.domain.usecase.LogRecallAttemptUseCase
 import com.example.dsarecall.ui.analytics.AnalyticsViewModel
+import com.example.dsarecall.ui.auth.AuthViewModel
 import com.example.dsarecall.ui.bank.ProblemBankViewModel
 import com.example.dsarecall.ui.navigation.MainAppNavigation
 import com.example.dsarecall.ui.onboarding.OnboardingViewModel
@@ -29,6 +33,10 @@ class MainActivity : ComponentActivity() {
         val repository = ProblemRepositoryImpl(db.problemDao())
         val onboardingRepository = OnboardingRepository(applicationContext)
 
+        val authRepository = FirebaseAuthRepositoryImpl()
+        val cloudStorageRepository = FirebaseCloudStorageRepositoryImpl()
+        val syncEngine = SyncEngine(repository, cloudStorageRepository)
+
         // UseCases instantiation following Clean Architecture
         val getDailyQueueUseCase = GetDailyQueueUseCase(repository)
         val logRecallAttemptUseCase = LogRecallAttemptUseCase(repository)
@@ -42,11 +50,13 @@ class MainActivity : ComponentActivity() {
                     modelClass.isAssignableFrom(OnboardingViewModel::class.java) ->
                         OnboardingViewModel(repository, onboardingRepository) as T
                     modelClass.isAssignableFrom(DailyQueueViewModel::class.java) ->
-                        DailyQueueViewModel(getDailyQueueUseCase, logRecallAttemptUseCase, repository) as T
+                        DailyQueueViewModel(getDailyQueueUseCase, logRecallAttemptUseCase, repository, syncEngine, authRepository, onboardingRepository) as T
                     modelClass.isAssignableFrom(ProblemBankViewModel::class.java) ->
-                        ProblemBankViewModel(getProblemBankUseCase, logRecallAttemptUseCase, repository) as T
+                        ProblemBankViewModel(getProblemBankUseCase, logRecallAttemptUseCase, repository, syncEngine, authRepository) as T
                     modelClass.isAssignableFrom(AnalyticsViewModel::class.java) ->
                         AnalyticsViewModel(getAnalyticsUseCase) as T
+                    modelClass.isAssignableFrom(AuthViewModel::class.java) ->
+                        AuthViewModel(authRepository, syncEngine) as T
                     else -> throw IllegalArgumentException("Unknown ViewModel class: ${modelClass.name}")
                 }
             }
@@ -56,6 +66,7 @@ class MainActivity : ComponentActivity() {
         val queueViewModel = ViewModelProvider(this, factory)[DailyQueueViewModel::class.java]
         val bankViewModel = ViewModelProvider(this, factory)[ProblemBankViewModel::class.java]
         val analyticsViewModel = ViewModelProvider(this, factory)[AnalyticsViewModel::class.java]
+        val authViewModel = ViewModelProvider(this, factory)[AuthViewModel::class.java]
 
         val hasCompletedOnboarding = onboardingRepository.hasCompletedOnboarding()
 
@@ -66,6 +77,7 @@ class MainActivity : ComponentActivity() {
                     queueViewModel = queueViewModel,
                     bankViewModel = bankViewModel,
                     analyticsViewModel = analyticsViewModel,
+                    authViewModel = authViewModel,
                     hasCompletedOnboarding = hasCompletedOnboarding
                 )
             }

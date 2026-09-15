@@ -20,6 +20,9 @@ import kotlinx.coroutines.flow.flatMapLatest
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.launch
 
+import com.example.dsarecall.domain.repository.AuthRepository
+import com.example.dsarecall.domain.sync.SyncEngine
+
 data class ProblemBankUiState(
     val problems: List<Problem> = emptyList(),
     val searchQuery: String = "",
@@ -34,7 +37,9 @@ data class ProblemBankUiState(
 class ProblemBankViewModel(
     private val getProblemBankUseCase: GetProblemBankUseCase,
     private val logRecallAttemptUseCase: LogRecallAttemptUseCase,
-    private val repository: ProblemRepository
+    private val repository: ProblemRepository,
+    private val syncEngine: SyncEngine? = null,
+    private val authRepository: AuthRepository? = null
 ) : ViewModel() {
 
     private val _searchQuery = MutableStateFlow("")
@@ -95,6 +100,7 @@ class ProblemBankViewModel(
     fun toggleProblemTracking(problemId: String, isTracking: Boolean) {
         viewModelScope.launch {
             repository.setProblemTracking(problemId, isTracking)
+            triggerAutoSync()
         }
     }
 
@@ -111,6 +117,16 @@ class ProblemBankViewModel(
         viewModelScope.launch {
             logRecallAttemptUseCase(problem.id, attempt)
             closeRecallLogSheet()
+            triggerAutoSync()
+        }
+    }
+
+    private fun triggerAutoSync() {
+        val user = authRepository?.currentUser
+        if (user != null && syncEngine != null) {
+            viewModelScope.launch {
+                syncEngine.performSync(user.id)
+            }
         }
     }
 

@@ -62,6 +62,17 @@ class FakeProblemRepository : ProblemRepository {
         }
     }
 
+    override suspend fun activateMoreStarterProblems(targetSheet: SourceSheet, count: Int) {
+        val now = System.currentTimeMillis()
+        val untracked = problems.filter { !it.isTracking }
+        untracked.take(count).forEach { p ->
+            val index = problems.indexOfFirst { it.id == p.id }
+            if (index != -1) {
+                problems[index] = p.copy(isTracking = true, nextDueDate = now)
+            }
+        }
+    }
+
     override suspend fun insertProblem(problem: Problem) {
         problems.removeAll { it.id == problem.id }
         problems.add(problem)

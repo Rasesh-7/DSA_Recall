@@ -39,6 +39,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.ui.graphics.Color
 import com.example.dsarecall.domain.model.Difficulty
 import com.example.dsarecall.domain.model.Problem
 import com.example.dsarecall.domain.model.SourceSheet
@@ -47,10 +48,15 @@ import com.example.dsarecall.ui.components.GlassCard
 import com.example.dsarecall.ui.components.MemoryDecayIndicator
 import com.example.dsarecall.ui.components.TopicTagRow
 import com.example.dsarecall.ui.log.RecallLogBottomSheet
+import com.example.dsarecall.ui.theme.GlassBorderLight
+import com.example.dsarecall.ui.theme.MauvePrimary
 import com.example.dsarecall.ui.theme.MinimalistBackground
 import com.example.dsarecall.ui.theme.MinimalistBorder
 import com.example.dsarecall.ui.theme.MinimalistSurfaceVariant
+import com.example.dsarecall.ui.theme.ObsidianVoid
+import com.example.dsarecall.ui.theme.PaleLilac
 import com.example.dsarecall.ui.theme.SapphirePrimary
+import com.example.dsarecall.ui.theme.SoftLavender
 import com.example.dsarecall.ui.theme.TextMuted
 import com.example.dsarecall.ui.theme.TextPrimary
 import com.example.dsarecall.ui.theme.TextSecondary
@@ -88,24 +94,24 @@ fun ProblemBankScreen(
             OutlinedTextField(
                 value = state.searchQuery,
                 onValueChange = { viewModel.onSearchQueryChanged(it) },
-                placeholder = { Text("Search NeetCode 150 or Striver's Sheet...") },
+                placeholder = { Text("Search NeetCode 150 or Striver's Sheet...", color = SoftLavender.copy(alpha = 0.4f)) },
                 leadingIcon = {
                     Icon(
                         imageVector = Icons.Default.Search,
                         contentDescription = null,
-                        tint = TextMuted
+                        tint = MauvePrimary
                     )
                 },
                 singleLine = true,
                 colors = OutlinedTextFieldDefaults.colors(
-                    focusedContainerColor = MinimalistSurfaceVariant,
-                    unfocusedContainerColor = MinimalistSurfaceVariant,
-                    focusedBorderColor = SapphirePrimary,
-                    unfocusedBorderColor = MinimalistBorder,
-                    focusedTextColor = TextPrimary,
-                    unfocusedTextColor = TextPrimary
+                    focusedContainerColor = Color(0xFF221C2E).copy(alpha = 0.6f),
+                    unfocusedContainerColor = Color(0xFF221C2E).copy(alpha = 0.3f),
+                    focusedBorderColor = MauvePrimary,
+                    unfocusedBorderColor = GlassBorderLight,
+                    focusedTextColor = PaleLilac,
+                    unfocusedTextColor = PaleLilac
                 ),
-                shape = RoundedCornerShape(12.dp),
+                shape = RoundedCornerShape(16.dp),
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(horizontal = 16.dp, vertical = 6.dp)
@@ -136,11 +142,12 @@ fun ProblemBankScreen(
                             }
                         },
                         label = { Text(label, fontWeight = if (isSelected) FontWeight.Bold else FontWeight.Normal) },
+                        shape = RoundedCornerShape(9999.dp),
                         colors = FilterChipDefaults.filterChipColors(
-                            selectedContainerColor = SapphirePrimary,
-                            selectedLabelColor = MinimalistBackground,
-                            containerColor = MinimalistSurfaceVariant,
-                            labelColor = TextSecondary
+                            selectedContainerColor = MauvePrimary,
+                            selectedLabelColor = ObsidianVoid,
+                            containerColor = Color(0xFF251F33),
+                            labelColor = SoftLavender
                         )
                     )
                 }
@@ -158,11 +165,12 @@ fun ProblemBankScreen(
                     selected = state.selectedDifficultyFilter == null,
                     onClick = { viewModel.onDifficultyFilterSelected(null) },
                     label = { Text("All Difficulties") },
+                    shape = RoundedCornerShape(9999.dp),
                     colors = FilterChipDefaults.filterChipColors(
-                        selectedContainerColor = SapphirePrimary,
-                        selectedLabelColor = MinimalistBackground,
-                        containerColor = MinimalistSurfaceVariant,
-                        labelColor = TextSecondary
+                        selectedContainerColor = MauvePrimary,
+                        selectedLabelColor = ObsidianVoid,
+                        containerColor = Color(0xFF251F33),
+                        labelColor = SoftLavender
                     )
                 )
 
@@ -177,11 +185,12 @@ fun ProblemBankScreen(
                             }
                         },
                         label = { Text(diff.getDisplayName()) },
+                        shape = RoundedCornerShape(9999.dp),
                         colors = FilterChipDefaults.filterChipColors(
-                            selectedContainerColor = SapphirePrimary,
-                            selectedLabelColor = MinimalistBackground,
-                            containerColor = MinimalistSurfaceVariant,
-                            labelColor = TextSecondary
+                            selectedContainerColor = MauvePrimary,
+                            selectedLabelColor = ObsidianVoid,
+                            containerColor = Color(0xFF251F33),
+                            labelColor = SoftLavender
                         )
                     )
                 }

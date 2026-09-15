@@ -14,7 +14,8 @@ interface ProblemRepository {
     suspend fun getProblemById(id: String): Problem?
     suspend fun setProblemTracking(id: String, isTracking: Boolean)
     suspend fun bulkUpdateTracking(problemIds: List<String>, isTracking: Boolean, initialDueDate: Long)
-    suspend fun ensureStarterProblemsTracked(targetSheet: SourceSheet = SourceSheet.NEETCODE_150, count: Int = 15)
+    suspend fun ensureStarterProblemsTracked(targetSheet: SourceSheet = SourceSheet.NEETCODE_150, count: Int = 3)
+    suspend fun activateMoreStarterProblems(targetSheet: SourceSheet = SourceSheet.NEETCODE_150, count: Int = 3)
     suspend fun insertProblem(problem: Problem)
     suspend fun insertProblems(problems: List<Problem>)
     suspend fun updateProblem(problem: Problem)

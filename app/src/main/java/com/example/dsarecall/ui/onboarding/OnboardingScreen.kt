@@ -293,6 +293,63 @@ fun StepGoalSelection(
             }
         }
 
+        Spacer(modifier = Modifier.height(20.dp))
+
+        Text(
+            text = "Select Daily Problem Pace:",
+            color = TextPrimary,
+            fontSize = 14.sp,
+            fontWeight = FontWeight.SemiBold
+        )
+        Spacer(modifier = Modifier.height(10.dp))
+
+        val quotas = listOf(
+            Triple(3, "🟢 Paced (3 cards/day)", "Light 10-min daily review — Recommended for busy schedules"),
+            Triple(5, "🟣 Balanced (5 cards/day)", "Standard 20-min daily review — Optimal memory retention balance"),
+            Triple(10, "⚡ Intensive (10 cards/day)", "Accelerated prep — Interview crunch mode")
+        )
+
+        quotas.forEach { (quota, title, subtitle) ->
+            val isSelected = state.dailyQuota == quota
+            Surface(
+                onClick = { viewModel.selectDailyQuota(quota) },
+                shape = RoundedCornerShape(10.dp),
+                color = if (isSelected) SapphirePrimary.copy(alpha = 0.12f) else MinimalistSurfaceVariant,
+                border = BorderStroke(1.dp, if (isSelected) SapphirePrimary else MinimalistBorder),
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(bottom = 8.dp)
+            ) {
+                Row(
+                    verticalAlignment = Alignment.CenterVertically,
+                    modifier = Modifier.padding(horizontal = 14.dp, vertical = 10.dp)
+                ) {
+                    Column(modifier = Modifier.weight(1f)) {
+                        Text(
+                            text = title,
+                            color = if (isSelected) TextPrimary else TextSecondary,
+                            fontSize = 14.sp,
+                            fontWeight = if (isSelected) FontWeight.Bold else FontWeight.Medium
+                        )
+                        Spacer(modifier = Modifier.height(2.dp))
+                        Text(
+                            text = subtitle,
+                            color = TextMuted,
+                            fontSize = 11.sp
+                        )
+                    }
+                    if (isSelected) {
+                        Icon(
+                            imageVector = Icons.Default.CheckCircle,
+                            contentDescription = null,
+                            tint = SapphirePrimary,
+                            modifier = Modifier.size(20.dp)
+                        )
+                    }
+                }
+            }
+        }
+
         Spacer(modifier = Modifier.height(28.dp))
 
         Button(

@@ -4,19 +4,30 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 
-// Obsidian Lilac Precision (Dark Theme Tokens from User Image 1)
-val ObsidianBackground = Color(0xFF121015)
-val ObsidianSurface = Color(0xFF1B1822)
-val ObsidianSurfaceVariant = Color(0xFF25202E)
-val ObsidianBorder = Color(0xFF3B3347)
-val ObsidianPrimary = Color(0xFFD8C8FF)
-val ObsidianSecondary = Color(0xFFC084FC)
-val ObsidianTertiary = Color(0xFF2D2836)
-val ObsidianTextPrimary = Color(0xFFF4F0FF)
-val ObsidianTextSecondary = Color(0xFFB8B0C8)
-val ObsidianTextMuted = Color(0xFF7E778E)
+// Obsidian Mauve Design System Tokens (From Stitch Spec & Auth Screen)
+val ObsidianVoid = Color(0xFF0D0B12)
+val ObsidianGlassCard = Color(0xFF191522)
+val MauvePrimary = Color(0xFFA47CA5)
+val MauvePrimaryPressed = Color(0xFF8E6690)
+val SoftLavender = Color(0xFFD8C8FF)
+val PaleLilac = Color(0xFFE8DEFF)
+val GlowingGreen = Color(0xFFA3E635)
+val GlassBorderLight = Color(0x26FFFFFF)
+val GlassBorderMauve = Color(0x40A47CA5)
 
-// Neomorphic Lilac Precision (Light Theme Tokens from User Image 2)
+// Obsidian Dark Theme Tokens
+val ObsidianBackground = Color(0xFF0D0B12)
+val ObsidianSurface = Color(0xFF191522)
+val ObsidianSurfaceVariant = Color(0xFF221C2E)
+val ObsidianBorder = Color(0x26FFFFFF)
+val ObsidianPrimary = Color(0xFFA47CA5)
+val ObsidianSecondary = Color(0xFFD8C8FF)
+val ObsidianTertiary = Color(0xFF251F33)
+val ObsidianTextPrimary = Color(0xFFE8DEFF)
+val ObsidianTextSecondary = Color(0xFFD8C8FF)
+val ObsidianTextMuted = Color(0xFF998D96)
+
+// Neomorphic Light Theme Tokens
 val NeomorphicBackground = Color(0xFFFAF0EB)
 val NeomorphicSurface = Color(0xFFFFF8F5)
 val NeomorphicSurfaceVariant = Color(0xFFF0E5DF)
@@ -28,7 +39,7 @@ val NeomorphicTextPrimary = Color(0xFF2A1E1A)
 val NeomorphicTextSecondary = Color(0xFF635359)
 val NeomorphicTextMuted = Color(0xFF9C8B92)
 
-// Dynamic Composable Color Accessors for Theme Adaptability across all UI Components
+// Dynamic Composable Color Accessors for Theme Adaptability
 val MinimalistBackground: Color
     @Composable get() = MaterialTheme.colorScheme.background
 
