@@ -1,0 +1,7070 @@
+{
+  "contains-duplicate": {
+    "id": "contains-duplicate",
+    "title": "Contains Duplicate",
+    "difficulty": "EASY",
+    "category": "Arrays & Hashing",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 1
+      }
+    ]
+  },
+  "valid-anagram": {
+    "id": "valid-anagram",
+    "title": "Valid Anagram",
+    "difficulty": "EASY",
+    "category": "Arrays & Hashing",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 2
+      }
+    ]
+  },
+  "two-sum": {
+    "id": "two-sum",
+    "title": "Two Sum",
+    "difficulty": "EASY",
+    "category": "Arrays & Hashing",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 3
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 74
+      }
+    ]
+  },
+  "group-anagrams": {
+    "id": "group-anagrams",
+    "title": "Group Anagrams",
+    "difficulty": "MEDIUM",
+    "category": "Arrays & Hashing",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 4
+      }
+    ]
+  },
+  "top-k-frequent-elements": {
+    "id": "top-k-frequent-elements",
+    "title": "Top K Frequent Elements",
+    "difficulty": "MEDIUM",
+    "category": "Arrays & Hashing",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 5
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 278
+      }
+    ]
+  },
+  "encode-and-decode-strings": {
+    "id": "encode-and-decode-strings",
+    "title": "Encode and Decode Strings",
+    "difficulty": "MEDIUM",
+    "category": "Arrays & Hashing",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 6
+      }
+    ]
+  },
+  "product-of-array-except-self": {
+    "id": "product-of-array-except-self",
+    "title": "Product of Array Except Self",
+    "difficulty": "MEDIUM",
+    "category": "Arrays & Hashing",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 7
+      }
+    ]
+  },
+  "valid-sudoku": {
+    "id": "valid-sudoku",
+    "title": "Valid Sudoku",
+    "difficulty": "MEDIUM",
+    "category": "Arrays & Hashing",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 8
+      }
+    ]
+  },
+  "longest-consecutive-sequence": {
+    "id": "longest-consecutive-sequence",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "MEDIUM",
+    "category": "Arrays & Hashing",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 9
+      }
+    ]
+  },
+  "valid-palindrome": {
+    "id": "valid-palindrome",
+    "title": "Valid Palindrome",
+    "difficulty": "EASY",
+    "category": "Two Pointers",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 10
+      }
+    ]
+  },
+  "two-sum-ii-input-array-is-sorted": {
+    "id": "two-sum-ii-input-array-is-sorted",
+    "title": "Two Sum II Input Array Is Sorted",
+    "difficulty": "MEDIUM",
+    "category": "Two Pointers",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 11
+      }
+    ]
+  },
+  "3sum": {
+    "id": "3sum",
+    "title": "3Sum",
+    "difficulty": "MEDIUM",
+    "category": "Two Pointers",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 12
+      }
+    ]
+  },
+  "container-with-most-water": {
+    "id": "container-with-most-water",
+    "title": "Container With Most Water",
+    "difficulty": "MEDIUM",
+    "category": "Two Pointers",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 13
+      }
+    ]
+  },
+  "trapping-rain-water": {
+    "id": "trapping-rain-water",
+    "title": "Trapping Rain Water",
+    "difficulty": "HARD",
+    "category": "Two Pointers",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 14
+      }
+    ]
+  },
+  "best-time-to-buy-and-sell-stock": {
+    "id": "best-time-to-buy-and-sell-stock",
+    "title": "Best Time to Buy And Sell Stock",
+    "difficulty": "EASY",
+    "category": "Sliding Window",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 15
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 434
+      }
+    ]
+  },
+  "longest-substring-without-repeating-characters": {
+    "id": "longest-substring-without-repeating-characters",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "MEDIUM",
+    "category": "Sliding Window",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 16
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 250
+      }
+    ]
+  },
+  "longest-repeating-character-replacement": {
+    "id": "longest-repeating-character-replacement",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "MEDIUM",
+    "category": "Sliding Window",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 17
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 253
+      }
+    ]
+  },
+  "permutation-in-string": {
+    "id": "permutation-in-string",
+    "title": "Permutation In String",
+    "difficulty": "MEDIUM",
+    "category": "Sliding Window",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 18
+      }
+    ]
+  },
+  "minimum-window-substring": {
+    "id": "minimum-window-substring",
+    "title": "Minimum Window Substring",
+    "difficulty": "HARD",
+    "category": "Sliding Window",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 19
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 260
+      }
+    ]
+  },
+  "sliding-window-maximum": {
+    "id": "sliding-window-maximum",
+    "title": "Sliding Window Maximum",
+    "difficulty": "HARD",
+    "category": "Sliding Window",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 20
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 245
+      }
+    ]
+  },
+  "valid-parentheses": {
+    "id": "valid-parentheses",
+    "title": "Valid Parentheses",
+    "difficulty": "EASY",
+    "category": "Stack",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 21
+      }
+    ]
+  },
+  "min-stack": {
+    "id": "min-stack",
+    "title": "Min Stack",
+    "difficulty": "MEDIUM",
+    "category": "Stack",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 22
+      }
+    ]
+  },
+  "evaluate-reverse-polish-notation": {
+    "id": "evaluate-reverse-polish-notation",
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "MEDIUM",
+    "category": "Stack",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 23
+      }
+    ]
+  },
+  "daily-temperatures": {
+    "id": "daily-temperatures",
+    "title": "Daily Temperatures",
+    "difficulty": "MEDIUM",
+    "category": "Stack",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 24
+      }
+    ]
+  },
+  "car-fleet": {
+    "id": "car-fleet",
+    "title": "Car Fleet",
+    "difficulty": "MEDIUM",
+    "category": "Stack",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 25
+      }
+    ]
+  },
+  "largest-rectangle-in-histogram": {
+    "id": "largest-rectangle-in-histogram",
+    "title": "Largest Rectangle In Histogram",
+    "difficulty": "HARD",
+    "category": "Stack",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 26
+      }
+    ]
+  },
+  "binary-search": {
+    "id": "binary-search",
+    "title": "Binary Search",
+    "difficulty": "EASY",
+    "category": "Binary Search",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 27
+      }
+    ]
+  },
+  "search-a-2d-matrix": {
+    "id": "search-a-2d-matrix",
+    "title": "Search a 2D Matrix",
+    "difficulty": "MEDIUM",
+    "category": "Binary Search",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 28
+      }
+    ]
+  },
+  "koko-eating-bananas": {
+    "id": "koko-eating-bananas",
+    "title": "Koko Eating Bananas",
+    "difficulty": "MEDIUM",
+    "category": "Binary Search",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 29
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 114
+      }
+    ]
+  },
+  "find-minimum-in-rotated-sorted-array": {
+    "id": "find-minimum-in-rotated-sorted-array",
+    "title": "Find Minimum In Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "category": "Binary Search",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 30
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 108
+      }
+    ]
+  },
+  "search-in-rotated-sorted-array": {
+    "id": "search-in-rotated-sorted-array",
+    "title": "Search In Rotated Sorted Array",
+    "difficulty": "MEDIUM",
+    "category": "Binary Search",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 31
+      }
+    ]
+  },
+  "time-based-key-value-store": {
+    "id": "time-based-key-value-store",
+    "title": "Time Based Key Value Store",
+    "difficulty": "MEDIUM",
+    "category": "Binary Search",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 32
+      }
+    ]
+  },
+  "median-of-two-sorted-arrays": {
+    "id": "median-of-two-sorted-arrays",
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "HARD",
+    "category": "Binary Search",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 33
+      }
+    ]
+  },
+  "reverse-linked-list": {
+    "id": "reverse-linked-list",
+    "title": "Reverse Linked List",
+    "difficulty": "EASY",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 34
+      }
+    ]
+  },
+  "merge-two-sorted-lists": {
+    "id": "merge-two-sorted-lists",
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "EASY",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 35
+      }
+    ]
+  },
+  "linked-list-cycle": {
+    "id": "linked-list-cycle",
+    "title": "Linked List Cycle",
+    "difficulty": "EASY",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 36
+      }
+    ]
+  },
+  "reorder-list": {
+    "id": "reorder-list",
+    "title": "Reorder List",
+    "difficulty": "MEDIUM",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 37
+      }
+    ]
+  },
+  "remove-nth-node-from-end-of-list": {
+    "id": "remove-nth-node-from-end-of-list",
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "MEDIUM",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 38
+      }
+    ]
+  },
+  "copy-list-with-random-pointer": {
+    "id": "copy-list-with-random-pointer",
+    "title": "Copy List With Random Pointer",
+    "difficulty": "MEDIUM",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 39
+      }
+    ]
+  },
+  "add-two-numbers": {
+    "id": "add-two-numbers",
+    "title": "Add Two Numbers",
+    "difficulty": "MEDIUM",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 40
+      }
+    ]
+  },
+  "find-the-duplicate-number": {
+    "id": "find-the-duplicate-number",
+    "title": "Find The Duplicate Number",
+    "difficulty": "MEDIUM",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 41
+      }
+    ]
+  },
+  "lru-cache": {
+    "id": "lru-cache",
+    "title": "LRU Cache",
+    "difficulty": "MEDIUM",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 42
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 248
+      }
+    ]
+  },
+  "merge-k-sorted-lists": {
+    "id": "merge-k-sorted-lists",
+    "title": "Merge K Sorted Lists",
+    "difficulty": "HARD",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 43
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 269
+      }
+    ]
+  },
+  "reverse-nodes-in-k-group": {
+    "id": "reverse-nodes-in-k-group",
+    "title": "Reverse Nodes In K Group",
+    "difficulty": "HARD",
+    "category": "Linked List",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 44
+      }
+    ]
+  },
+  "invert-binary-tree": {
+    "id": "invert-binary-tree",
+    "title": "Invert Binary Tree",
+    "difficulty": "EASY",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 45
+      }
+    ]
+  },
+  "maximum-depth-of-binary-tree": {
+    "id": "maximum-depth-of-binary-tree",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "EASY",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 46
+      }
+    ]
+  },
+  "diameter-of-binary-tree": {
+    "id": "diameter-of-binary-tree",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "EASY",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 47
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 308
+      }
+    ]
+  },
+  "balanced-binary-tree": {
+    "id": "balanced-binary-tree",
+    "title": "Balanced Binary Tree",
+    "difficulty": "EASY",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 48
+      }
+    ]
+  },
+  "same-tree": {
+    "id": "same-tree",
+    "title": "Same Tree",
+    "difficulty": "EASY",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 49
+      }
+    ]
+  },
+  "subtree-of-another-tree": {
+    "id": "subtree-of-another-tree",
+    "title": "Subtree of Another Tree",
+    "difficulty": "EASY",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 50
+      }
+    ]
+  },
+  "lowest-common-ancestor-of-a-binary-search-tree": {
+    "id": "lowest-common-ancestor-of-a-binary-search-tree",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 51
+      }
+    ]
+  },
+  "binary-tree-level-order-traversal": {
+    "id": "binary-tree-level-order-traversal",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "MEDIUM",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 52
+      }
+    ]
+  },
+  "binary-tree-right-side-view": {
+    "id": "binary-tree-right-side-view",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "MEDIUM",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 53
+      }
+    ]
+  },
+  "count-good-nodes-in-binary-tree": {
+    "id": "count-good-nodes-in-binary-tree",
+    "title": "Count Good Nodes In Binary Tree",
+    "difficulty": "MEDIUM",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 54
+      }
+    ]
+  },
+  "validate-binary-search-tree": {
+    "id": "validate-binary-search-tree",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "MEDIUM",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 55
+      }
+    ]
+  },
+  "kth-smallest-element-in-a-bst": {
+    "id": "kth-smallest-element-in-a-bst",
+    "title": "Kth Smallest Element In a Bst",
+    "difficulty": "MEDIUM",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 56
+      }
+    ]
+  },
+  "construct-binary-tree-from-preorder-and-inorder-traversal": {
+    "id": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+    "difficulty": "MEDIUM",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 57
+      }
+    ]
+  },
+  "binary-tree-maximum-path-sum": {
+    "id": "binary-tree-maximum-path-sum",
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "HARD",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 58
+      }
+    ]
+  },
+  "serialize-and-deserialize-binary-tree": {
+    "id": "serialize-and-deserialize-binary-tree",
+    "title": "Serialize And Deserialize Binary Tree",
+    "difficulty": "HARD",
+    "category": "Trees",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 59
+      }
+    ]
+  },
+  "kth-largest-element-in-a-stream": {
+    "id": "kth-largest-element-in-a-stream",
+    "title": "Kth Largest Element In a Stream",
+    "difficulty": "EASY",
+    "category": "Heap / Priority Queue",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 60
+      }
+    ]
+  },
+  "last-stone-weight": {
+    "id": "last-stone-weight",
+    "title": "Last Stone Weight",
+    "difficulty": "EASY",
+    "category": "Heap / Priority Queue",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 61
+      }
+    ]
+  },
+  "k-closest-points-to-origin": {
+    "id": "k-closest-points-to-origin",
+    "title": "K Closest Points to Origin",
+    "difficulty": "MEDIUM",
+    "category": "Heap / Priority Queue",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 62
+      }
+    ]
+  },
+  "kth-largest-element-in-an-array": {
+    "id": "kth-largest-element-in-an-array",
+    "title": "Kth Largest Element In An Array",
+    "difficulty": "MEDIUM",
+    "category": "Heap / Priority Queue",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 63
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 266
+      }
+    ]
+  },
+  "task-scheduler": {
+    "id": "task-scheduler",
+    "title": "Task Scheduler",
+    "difficulty": "MEDIUM",
+    "category": "Heap / Priority Queue",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 64
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 271
+      }
+    ]
+  },
+  "design-twitter": {
+    "id": "design-twitter",
+    "title": "Design Twitter",
+    "difficulty": "MEDIUM",
+    "category": "Heap / Priority Queue",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 65
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 273
+      }
+    ]
+  },
+  "find-median-from-data-stream": {
+    "id": "find-median-from-data-stream",
+    "title": "Find Median From Data Stream",
+    "difficulty": "HARD",
+    "category": "Heap / Priority Queue",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 66
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 277
+      }
+    ]
+  },
+  "subsets": {
+    "id": "subsets",
+    "title": "Subsets",
+    "difficulty": "MEDIUM",
+    "category": "Backtracking",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 67
+      }
+    ]
+  },
+  "combination-sum": {
+    "id": "combination-sum",
+    "title": "Combination Sum",
+    "difficulty": "MEDIUM",
+    "category": "Backtracking",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 68
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 188
+      }
+    ]
+  },
+  "combination-sum-ii": {
+    "id": "combination-sum-ii",
+    "title": "Combination Sum II",
+    "difficulty": "MEDIUM",
+    "category": "Backtracking",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 69
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 189
+      }
+    ]
+  },
+  "permutations": {
+    "id": "permutations",
+    "title": "Permutations",
+    "difficulty": "MEDIUM",
+    "category": "Backtracking",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 70
+      }
+    ]
+  },
+  "subsets-ii": {
+    "id": "subsets-ii",
+    "title": "Subsets II",
+    "difficulty": "MEDIUM",
+    "category": "Backtracking",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 71
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 191
+      }
+    ]
+  },
+  "generate-parentheses": {
+    "id": "generate-parentheses",
+    "title": "Generate Parentheses",
+    "difficulty": "MEDIUM",
+    "category": "Backtracking",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 72
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 183
+      }
+    ]
+  },
+  "word-search": {
+    "id": "word-search",
+    "title": "Word Search",
+    "difficulty": "MEDIUM",
+    "category": "Backtracking",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 73
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 195
+      }
+    ]
+  },
+  "palindrome-partitioning": {
+    "id": "palindrome-partitioning",
+    "title": "Palindrome Partitioning",
+    "difficulty": "MEDIUM",
+    "category": "Backtracking",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 74
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 194
+      }
+    ]
+  },
+  "letter-combinations-of-a-phone-number": {
+    "id": "letter-combinations-of-a-phone-number",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "MEDIUM",
+    "category": "Backtracking",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 75
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 193
+      }
+    ]
+  },
+  "n-queens": {
+    "id": "n-queens",
+    "title": "N Queens",
+    "difficulty": "HARD",
+    "category": "Backtracking",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 76
+      }
+    ]
+  },
+  "implement-trie-prefix-tree": {
+    "id": "implement-trie-prefix-tree",
+    "title": "Implement Trie Prefix Tree",
+    "difficulty": "MEDIUM",
+    "category": "Tries",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 77
+      }
+    ]
+  },
+  "design-add-and-search-words-data-structure": {
+    "id": "design-add-and-search-words-data-structure",
+    "title": "Design Add And Search Words Data Structure",
+    "difficulty": "MEDIUM",
+    "category": "Tries",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 78
+      }
+    ]
+  },
+  "word-search-ii": {
+    "id": "word-search-ii",
+    "title": "Word Search II",
+    "difficulty": "HARD",
+    "category": "Tries",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 79
+      }
+    ]
+  },
+  "number-of-islands": {
+    "id": "number-of-islands",
+    "title": "Number of Islands",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 80
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 365
+      }
+    ]
+  },
+  "max-area-of-island": {
+    "id": "max-area-of-island",
+    "title": "Max Area of Island",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 81
+      }
+    ]
+  },
+  "clone-graph": {
+    "id": "clone-graph",
+    "title": "Clone Graph",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 82
+      }
+    ]
+  },
+  "walls-and-gates": {
+    "id": "walls-and-gates",
+    "title": "Walls And Gates",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 83
+      }
+    ]
+  },
+  "rotting-oranges": {
+    "id": "rotting-oranges",
+    "title": "Rotting Oranges",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 84
+      }
+    ]
+  },
+  "pacific-atlantic-water-flow": {
+    "id": "pacific-atlantic-water-flow",
+    "title": "Pacific Atlantic Water Flow",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 85
+      }
+    ]
+  },
+  "surrounded-regions": {
+    "id": "surrounded-regions",
+    "title": "Surrounded Regions",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 86
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 361
+      }
+    ]
+  },
+  "course-schedule": {
+    "id": "course-schedule",
+    "title": "Course Schedule",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 87
+      }
+    ]
+  },
+  "course-schedule-ii": {
+    "id": "course-schedule-ii",
+    "title": "Course Schedule II",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 88
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 372
+      }
+    ]
+  },
+  "graph-valid-tree": {
+    "id": "graph-valid-tree",
+    "title": "Graph Valid Tree",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 89
+      }
+    ]
+  },
+  "number-of-connected-components-in-an-undirected-graph": {
+    "id": "number-of-connected-components-in-an-undirected-graph",
+    "title": "Number of Connected Components In An Undirected Graph",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 90
+      }
+    ]
+  },
+  "redundant-connection": {
+    "id": "redundant-connection",
+    "title": "Redundant Connection",
+    "difficulty": "MEDIUM",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 91
+      }
+    ]
+  },
+  "word-ladder": {
+    "id": "word-ladder",
+    "title": "Word Ladder",
+    "difficulty": "HARD",
+    "category": "Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 92
+      }
+    ]
+  },
+  "network-delay-time": {
+    "id": "network-delay-time",
+    "title": "Network Delay Time",
+    "difficulty": "MEDIUM",
+    "category": "Advanced Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 93
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 382
+      }
+    ]
+  },
+  "reconstruct-itinerary": {
+    "id": "reconstruct-itinerary",
+    "title": "Reconstruct Itinerary",
+    "difficulty": "HARD",
+    "category": "Advanced Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 94
+      }
+    ]
+  },
+  "min-cost-to-connect-all-points": {
+    "id": "min-cost-to-connect-all-points",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "MEDIUM",
+    "category": "Advanced Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 95
+      }
+    ]
+  },
+  "swim-in-rising-water": {
+    "id": "swim-in-rising-water",
+    "title": "Swim In Rising Water",
+    "difficulty": "HARD",
+    "category": "Advanced Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 96
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 397
+      }
+    ]
+  },
+  "alien-dictionary": {
+    "id": "alien-dictionary",
+    "title": "Alien Dictionary",
+    "difficulty": "HARD",
+    "category": "Advanced Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 97
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 374
+      }
+    ]
+  },
+  "cheapest-flights-within-k-stops": {
+    "id": "cheapest-flights-within-k-stops",
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "MEDIUM",
+    "category": "Advanced Graphs",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 98
+      }
+    ]
+  },
+  "climbing-stairs": {
+    "id": "climbing-stairs",
+    "title": "Climbing Stairs",
+    "difficulty": "EASY",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 99
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 402
+      }
+    ]
+  },
+  "min-cost-climbing-stairs": {
+    "id": "min-cost-climbing-stairs",
+    "title": "Min Cost Climbing Stairs",
+    "difficulty": "EASY",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 100
+      }
+    ]
+  },
+  "house-robber": {
+    "id": "house-robber",
+    "title": "House Robber",
+    "difficulty": "MEDIUM",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 101
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 406
+      }
+    ]
+  },
+  "house-robber-ii": {
+    "id": "house-robber-ii",
+    "title": "House Robber II",
+    "difficulty": "MEDIUM",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 102
+      }
+    ]
+  },
+  "longest-palindromic-substring": {
+    "id": "longest-palindromic-substring",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "MEDIUM",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 103
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 143
+      }
+    ]
+  },
+  "palindromic-substrings": {
+    "id": "palindromic-substrings",
+    "title": "Palindromic Substrings",
+    "difficulty": "MEDIUM",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 104
+      }
+    ]
+  },
+  "decode-ways": {
+    "id": "decode-ways",
+    "title": "Decode Ways",
+    "difficulty": "MEDIUM",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 105
+      }
+    ]
+  },
+  "coin-change": {
+    "id": "coin-change",
+    "title": "Coin Change",
+    "difficulty": "MEDIUM",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 106
+      }
+    ]
+  },
+  "maximum-product-subarray": {
+    "id": "maximum-product-subarray",
+    "title": "Maximum Product Subarray",
+    "difficulty": "MEDIUM",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 107
+      }
+    ]
+  },
+  "word-break": {
+    "id": "word-break",
+    "title": "Word Break",
+    "difficulty": "MEDIUM",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 108
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 198
+      }
+    ]
+  },
+  "longest-increasing-subsequence": {
+    "id": "longest-increasing-subsequence",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 109
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 440
+      }
+    ]
+  },
+  "partition-equal-subset-sum": {
+    "id": "partition-equal-subset-sum",
+    "title": "Partition Equal Subset Sum",
+    "difficulty": "MEDIUM",
+    "category": "1-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 110
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 414
+      }
+    ]
+  },
+  "unique-paths": {
+    "id": "unique-paths",
+    "title": "Unique Paths",
+    "difficulty": "MEDIUM",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 111
+      }
+    ]
+  },
+  "longest-common-subsequence": {
+    "id": "longest-common-subsequence",
+    "title": "Longest Common Subsequence",
+    "difficulty": "MEDIUM",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 112
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 424
+      }
+    ]
+  },
+  "best-time-to-buy-and-sell-stock-with-cooldown": {
+    "id": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "title": "Best Time to Buy And Sell Stock With Cooldown",
+    "difficulty": "MEDIUM",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 113
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 438
+      }
+    ]
+  },
+  "coin-change-ii": {
+    "id": "coin-change-ii",
+    "title": "Coin Change II",
+    "difficulty": "MEDIUM",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 114
+      }
+    ]
+  },
+  "target-sum": {
+    "id": "target-sum",
+    "title": "Target Sum",
+    "difficulty": "MEDIUM",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 115
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 420
+      }
+    ]
+  },
+  "interleaving-string": {
+    "id": "interleaving-string",
+    "title": "Interleaving String",
+    "difficulty": "MEDIUM",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 116
+      }
+    ]
+  },
+  "longest-increasing-path-in-a-matrix": {
+    "id": "longest-increasing-path-in-a-matrix",
+    "title": "Longest Increasing Path In a Matrix",
+    "difficulty": "HARD",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 117
+      }
+    ]
+  },
+  "distinct-subsequences": {
+    "id": "distinct-subsequences",
+    "title": "Distinct Subsequences",
+    "difficulty": "HARD",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 118
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 431
+      }
+    ]
+  },
+  "edit-distance": {
+    "id": "edit-distance",
+    "title": "Edit Distance",
+    "difficulty": "MEDIUM",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 119
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 432
+      }
+    ]
+  },
+  "burst-balloons": {
+    "id": "burst-balloons",
+    "title": "Burst Balloons",
+    "difficulty": "HARD",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 120
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 450
+      }
+    ]
+  },
+  "regular-expression-matching": {
+    "id": "regular-expression-matching",
+    "title": "Regular Expression Matching",
+    "difficulty": "HARD",
+    "category": "2-D Dynamic Programming",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 121
+      }
+    ]
+  },
+  "maximum-subarray": {
+    "id": "maximum-subarray",
+    "title": "Maximum Subarray",
+    "difficulty": "MEDIUM",
+    "category": "Greedy",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 122
+      }
+    ]
+  },
+  "jump-game": {
+    "id": "jump-game",
+    "title": "Jump Game",
+    "difficulty": "MEDIUM",
+    "category": "Greedy",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 123
+      }
+    ]
+  },
+  "jump-game-ii": {
+    "id": "jump-game-ii",
+    "title": "Jump Game II",
+    "difficulty": "MEDIUM",
+    "category": "Greedy",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 124
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 285
+      }
+    ]
+  },
+  "gas-station": {
+    "id": "gas-station",
+    "title": "Gas Station",
+    "difficulty": "MEDIUM",
+    "category": "Greedy",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 125
+      }
+    ]
+  },
+  "hand-of-straights": {
+    "id": "hand-of-straights",
+    "title": "Hand of Straights",
+    "difficulty": "MEDIUM",
+    "category": "Greedy",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 126
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 272
+      }
+    ]
+  },
+  "merge-triplets-to-form-target-triplet": {
+    "id": "merge-triplets-to-form-target-triplet",
+    "title": "Merge Triplets to Form Target Triplet",
+    "difficulty": "MEDIUM",
+    "category": "Greedy",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 127
+      }
+    ]
+  },
+  "partition-labels": {
+    "id": "partition-labels",
+    "title": "Partition Labels",
+    "difficulty": "MEDIUM",
+    "category": "Greedy",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 128
+      }
+    ]
+  },
+  "valid-parenthesis-string": {
+    "id": "valid-parenthesis-string",
+    "title": "Valid Parenthesis String",
+    "difficulty": "MEDIUM",
+    "category": "Greedy",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 129
+      }
+    ]
+  },
+  "insert-interval": {
+    "id": "insert-interval",
+    "title": "Insert Interval",
+    "difficulty": "MEDIUM",
+    "category": "Intervals",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 130
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 291
+      }
+    ]
+  },
+  "merge-intervals": {
+    "id": "merge-intervals",
+    "title": "Merge Intervals",
+    "difficulty": "MEDIUM",
+    "category": "Intervals",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 131
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 292
+      }
+    ]
+  },
+  "non-overlapping-intervals": {
+    "id": "non-overlapping-intervals",
+    "title": "Non Overlapping Intervals",
+    "difficulty": "MEDIUM",
+    "category": "Intervals",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 132
+      }
+    ]
+  },
+  "meeting-rooms": {
+    "id": "meeting-rooms",
+    "title": "Meeting Rooms",
+    "difficulty": "EASY",
+    "category": "Intervals",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 133
+      }
+    ]
+  },
+  "meeting-rooms-ii": {
+    "id": "meeting-rooms-ii",
+    "title": "Meeting Rooms II",
+    "difficulty": "MEDIUM",
+    "category": "Intervals",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 134
+      }
+    ]
+  },
+  "minimum-interval-to-include-each-query": {
+    "id": "minimum-interval-to-include-each-query",
+    "title": "Minimum Interval to Include Each Query",
+    "difficulty": "HARD",
+    "category": "Intervals",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 135
+      }
+    ]
+  },
+  "rotate-image": {
+    "id": "rotate-image",
+    "title": "Rotate Image",
+    "difficulty": "MEDIUM",
+    "category": "Math & Geometry",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 136
+      }
+    ]
+  },
+  "spiral-matrix": {
+    "id": "spiral-matrix",
+    "title": "Spiral Matrix",
+    "difficulty": "MEDIUM",
+    "category": "Math & Geometry",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 137
+      }
+    ]
+  },
+  "set-matrix-zeroes": {
+    "id": "set-matrix-zeroes",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "MEDIUM",
+    "category": "Math & Geometry",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 138
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 84
+      }
+    ]
+  },
+  "happy-number": {
+    "id": "happy-number",
+    "title": "Happy Number",
+    "difficulty": "EASY",
+    "category": "Math & Geometry",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 139
+      }
+    ]
+  },
+  "plus-one": {
+    "id": "plus-one",
+    "title": "Plus One",
+    "difficulty": "EASY",
+    "category": "Math & Geometry",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 140
+      }
+    ]
+  },
+  "powx-n": {
+    "id": "powx-n",
+    "title": "Pow(x, n)",
+    "difficulty": "MEDIUM",
+    "category": "Math & Geometry",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 141
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 178
+      }
+    ]
+  },
+  "multiply-strings": {
+    "id": "multiply-strings",
+    "title": "Multiply Strings",
+    "difficulty": "MEDIUM",
+    "category": "Math & Geometry",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 142
+      }
+    ]
+  },
+  "detect-squares": {
+    "id": "detect-squares",
+    "title": "Detect Squares",
+    "difficulty": "MEDIUM",
+    "category": "Math & Geometry",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 143
+      }
+    ]
+  },
+  "single-number": {
+    "id": "single-number",
+    "title": "Single Number",
+    "difficulty": "EASY",
+    "category": "Bit Manipulation",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 144
+      }
+    ]
+  },
+  "number-of-1-bits": {
+    "id": "number-of-1-bits",
+    "title": "Number of 1 Bits",
+    "difficulty": "EASY",
+    "category": "Bit Manipulation",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 145
+      }
+    ]
+  },
+  "counting-bits": {
+    "id": "counting-bits",
+    "title": "Counting Bits",
+    "difficulty": "EASY",
+    "category": "Bit Manipulation",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 146
+      }
+    ]
+  },
+  "reverse-bits": {
+    "id": "reverse-bits",
+    "title": "Reverse Bits",
+    "difficulty": "EASY",
+    "category": "Bit Manipulation",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 147
+      }
+    ]
+  },
+  "missing-number": {
+    "id": "missing-number",
+    "title": "Missing Number",
+    "difficulty": "EASY",
+    "category": "Bit Manipulation",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 148
+      }
+    ]
+  },
+  "sum-of-two-integers": {
+    "id": "sum-of-two-integers",
+    "title": "Sum of Two Integers",
+    "difficulty": "MEDIUM",
+    "category": "Bit Manipulation",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 149
+      }
+    ]
+  },
+  "reverse-integer": {
+    "id": "reverse-integer",
+    "title": "Reverse Integer",
+    "difficulty": "MEDIUM",
+    "category": "Bit Manipulation",
+    "sheets": [
+      {
+        "sheet": "NEETCODE_150",
+        "position": 150
+      }
+    ]
+  },
+  "input-output": {
+    "id": "input-output",
+    "title": "Input Output",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 1
+      }
+    ]
+  },
+  "cpp-basics": {
+    "id": "cpp-basics",
+    "title": "Cpp Basics",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 2
+      }
+    ]
+  },
+  "if-elseif": {
+    "id": "if-elseif",
+    "title": "If ElseIf",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 3
+      }
+    ]
+  },
+  "switch-case": {
+    "id": "switch-case",
+    "title": "Switch Case",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 4
+      }
+    ]
+  },
+  "what-are-arrays-strings": {
+    "id": "what-are-arrays-strings",
+    "title": "What are arrays, strings?",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 5
+      }
+    ]
+  },
+  "for-loops": {
+    "id": "for-loops",
+    "title": "For loops",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 6
+      }
+    ]
+  },
+  "while-loops": {
+    "id": "while-loops",
+    "title": "While loops",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 7
+      }
+    ]
+  },
+  "theory-with-examples": {
+    "id": "theory-with-examples",
+    "title": "Theory with examples",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 8
+      }
+    ]
+  },
+  "easy-and-medium": {
+    "id": "easy-and-medium",
+    "title": "Easy and Medium",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 9
+      }
+    ]
+  },
+  "hard": {
+    "id": "hard",
+    "title": "Hard",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 10
+      }
+    ]
+  },
+  "pattern-1": {
+    "id": "pattern-1",
+    "title": "Pattern 1",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 11
+      }
+    ]
+  },
+  "pattern-2": {
+    "id": "pattern-2",
+    "title": "Pattern 2",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 12
+      }
+    ]
+  },
+  "pattern-3": {
+    "id": "pattern-3",
+    "title": "Pattern 3",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 13
+      }
+    ]
+  },
+  "pattern-4": {
+    "id": "pattern-4",
+    "title": "Pattern 4",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 14
+      }
+    ]
+  },
+  "pattern-5": {
+    "id": "pattern-5",
+    "title": "Pattern 5",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 15
+      }
+    ]
+  },
+  "pattern-6": {
+    "id": "pattern-6",
+    "title": "Pattern 6",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 16
+      }
+    ]
+  },
+  "pattern-7": {
+    "id": "pattern-7",
+    "title": "Pattern 7",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 17
+      }
+    ]
+  },
+  "pattern-8": {
+    "id": "pattern-8",
+    "title": "Pattern 8",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 18
+      }
+    ]
+  },
+  "pattern-9": {
+    "id": "pattern-9",
+    "title": "Pattern 9",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 19
+      }
+    ]
+  },
+  "pattern-10": {
+    "id": "pattern-10",
+    "title": "Pattern 10",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 20
+      }
+    ]
+  },
+  "pattern-11": {
+    "id": "pattern-11",
+    "title": "Pattern 11",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 21
+      }
+    ]
+  },
+  "pattern-12": {
+    "id": "pattern-12",
+    "title": "Pattern 12",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 22
+      }
+    ]
+  },
+  "pattern-13": {
+    "id": "pattern-13",
+    "title": "Pattern 13",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 23
+      }
+    ]
+  },
+  "pattern-14": {
+    "id": "pattern-14",
+    "title": "Pattern 14",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 24
+      }
+    ]
+  },
+  "pattern-15": {
+    "id": "pattern-15",
+    "title": "Pattern 15",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 25
+      }
+    ]
+  },
+  "pattern-16": {
+    "id": "pattern-16",
+    "title": "Pattern 16",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 26
+      }
+    ]
+  },
+  "pattern-17": {
+    "id": "pattern-17",
+    "title": "Pattern 17",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 27
+      }
+    ]
+  },
+  "pattern-18": {
+    "id": "pattern-18",
+    "title": "Pattern 18",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 28
+      }
+    ]
+  },
+  "pattern-19": {
+    "id": "pattern-19",
+    "title": "Pattern 19",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 29
+      }
+    ]
+  },
+  "pattern-20": {
+    "id": "pattern-20",
+    "title": "Pattern 20",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 30
+      }
+    ]
+  },
+  "pattern-21": {
+    "id": "pattern-21",
+    "title": "Pattern 21",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 31
+      }
+    ]
+  },
+  "pattern-22": {
+    "id": "pattern-22",
+    "title": "Pattern 22",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 32
+      }
+    ]
+  },
+  "stl": {
+    "id": "stl",
+    "title": "STL",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 33
+      }
+    ]
+  },
+  "java-collections": {
+    "id": "java-collections",
+    "title": "Java Collections",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 34
+      }
+    ]
+  },
+  "count-all-digits-of-a-number": {
+    "id": "count-all-digits-of-a-number",
+    "title": "Count all Digits of a Number",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 35
+      }
+    ]
+  },
+  "reverse-a-number": {
+    "id": "reverse-a-number",
+    "title": "Reverse a number",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 36
+      }
+    ]
+  },
+  "palindrome-number": {
+    "id": "palindrome-number",
+    "title": "Palindrome Number",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 37
+      }
+    ]
+  },
+  "gcd-of-two-numbers": {
+    "id": "gcd-of-two-numbers",
+    "title": "GCD of Two Numbers",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 38
+      }
+    ]
+  },
+  "check-if-the-number-is-armstrong": {
+    "id": "check-if-the-number-is-armstrong",
+    "title": "Check if the Number is Armstrong",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 39
+      }
+    ]
+  },
+  "print-all-divisors": {
+    "id": "print-all-divisors",
+    "title": "Print all Divisors",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 40
+      }
+    ]
+  },
+  "check-for-prime-number": {
+    "id": "check-for-prime-number",
+    "title": "Check for Prime Number",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 41
+      }
+    ]
+  },
+  "understand-recursion-by-print-something-n-times": {
+    "id": "understand-recursion-by-print-something-n-times",
+    "title": "Understand recursion by print something N times",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 42
+      }
+    ]
+  },
+  "print-name-n-times-using-recursion": {
+    "id": "print-name-n-times-using-recursion",
+    "title": "Print name N times using recursion",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 43
+      }
+    ]
+  },
+  "print-1-to-n-using-recursion": {
+    "id": "print-1-to-n-using-recursion",
+    "title": "Print 1 to N using Recursion",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 44
+      }
+    ]
+  },
+  "print-n-to-1-using-recursion": {
+    "id": "print-n-to-1-using-recursion",
+    "title": "Print N to 1 using Recursion",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 45
+      }
+    ]
+  },
+  "factorial-of-a-given-number": {
+    "id": "factorial-of-a-given-number",
+    "title": "Factorial of a given number",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 46
+      }
+    ]
+  },
+  "reverse-an-array": {
+    "id": "reverse-an-array",
+    "title": "Reverse an array",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 47
+      }
+    ]
+  },
+  "check-if-string-is-palindrome-or-not": {
+    "id": "check-if-string-is-palindrome-or-not",
+    "title": "Check if String is Palindrome or Not ",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 48
+      }
+    ]
+  },
+  "fibonacci-number": {
+    "id": "fibonacci-number",
+    "title": "Fibonacci Number",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 49
+      }
+    ]
+  },
+  "basic-hashing": {
+    "id": "basic-hashing",
+    "title": "Basic Hashing",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 50
+      }
+    ]
+  },
+  "counting-frequencies-of-array-elements": {
+    "id": "counting-frequencies-of-array-elements",
+    "title": "Counting Frequencies of Array Elements",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 51
+      }
+    ]
+  },
+  "highest-occurring-element-in-an-array": {
+    "id": "highest-occurring-element-in-an-array",
+    "title": "Highest Occurring Element in an Array",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 52
+      }
+    ]
+  },
+  "selection-sort": {
+    "id": "selection-sort",
+    "title": "Selection Sort",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 53
+      }
+    ]
+  },
+  "bubble-sort": {
+    "id": "bubble-sort",
+    "title": "Bubble Sort",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 54
+      }
+    ]
+  },
+  "insertion-sorting": {
+    "id": "insertion-sorting",
+    "title": "Insertion Sorting",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 55
+      }
+    ]
+  },
+  "merge-sorting": {
+    "id": "merge-sorting",
+    "title": "Merge Sorting",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 56
+      }
+    ]
+  },
+  "recursive-bubble-sort": {
+    "id": "recursive-bubble-sort",
+    "title": "Recursive Bubble Sort",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 57
+      }
+    ]
+  },
+  "recursive-insertion-sort": {
+    "id": "recursive-insertion-sort",
+    "title": "Recursive Insertion Sort",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 58
+      }
+    ]
+  },
+  "quick-sorting": {
+    "id": "quick-sorting",
+    "title": "Quick Sorting",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 59
+      }
+    ]
+  },
+  "largest-element": {
+    "id": "largest-element",
+    "title": "Largest Element ",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 60
+      }
+    ]
+  },
+  "second-largest-element": {
+    "id": "second-largest-element",
+    "title": "Second Largest Element",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 61
+      }
+    ]
+  },
+  "check-if-the-array-is-sorted-ii": {
+    "id": "check-if-the-array-is-sorted-ii",
+    "title": "Check if the Array is Sorted II",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 62
+      }
+    ]
+  },
+  "remove-duplicates-from-sorted-array": {
+    "id": "remove-duplicates-from-sorted-array",
+    "title": "Remove duplicates from Sorted array",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 63
+      }
+    ]
+  },
+  "left-rotate-array-by-one": {
+    "id": "left-rotate-array-by-one",
+    "title": "Left Rotate Array by One",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 64
+      }
+    ]
+  },
+  "left-rotate-array-by-k-places": {
+    "id": "left-rotate-array-by-k-places",
+    "title": "Left Rotate Array by K Places",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 65
+      }
+    ]
+  },
+  "move-zeros-to-end": {
+    "id": "move-zeros-to-end",
+    "title": "Move Zeros to End",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 66
+      }
+    ]
+  },
+  "linear-search": {
+    "id": "linear-search",
+    "title": "Linear Search",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 67
+      }
+    ]
+  },
+  "union-of-two-sorted-arrays": {
+    "id": "union-of-two-sorted-arrays",
+    "title": "Union of two sorted arrays",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 68
+      }
+    ]
+  },
+  "find-missing-number": {
+    "id": "find-missing-number",
+    "title": "Find missing number",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 69
+      }
+    ]
+  },
+  "maximum-consecutive-ones": {
+    "id": "maximum-consecutive-ones",
+    "title": "Maximum Consecutive Ones",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 70
+      }
+    ]
+  },
+  "find-the-number-that-appears-once-and-other-numbers-twice": {
+    "id": "find-the-number-that-appears-once-and-other-numbers-twice",
+    "title": "Find the number that appears once, and other numbers twice.",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 71
+      }
+    ]
+  },
+  "longest-subarray-with-given-sum-kpositives": {
+    "id": "longest-subarray-with-given-sum-kpositives",
+    "title": "Longest subarray with given sum K(positives)",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 72
+      }
+    ]
+  },
+  "longest-subarray-with-sum-k": {
+    "id": "longest-subarray-with-sum-k",
+    "title": "Longest subarray with sum K",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 73
+      }
+    ]
+  },
+  "sort-an-array-of-0s-1s-and-2s": {
+    "id": "sort-an-array-of-0s-1s-and-2s",
+    "title": "Sort an array of 0's 1's and 2's",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 75
+      }
+    ]
+  },
+  "majority-element-i": {
+    "id": "majority-element-i",
+    "title": "Majority Element-I",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 76
+      }
+    ]
+  },
+  "kadanes-algorithm": {
+    "id": "kadanes-algorithm",
+    "title": "Kadane's Algorithm",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 77
+      }
+    ]
+  },
+  "print-subarray-with-maximum-subarray-sum-extended-version-of-above-problem": {
+    "id": "print-subarray-with-maximum-subarray-sum-extended-version-of-above-problem",
+    "title": "Print subarray with maximum subarray sum (extended version of above problem)",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 78
+      }
+    ]
+  },
+  "stock-buy-and-sell": {
+    "id": "stock-buy-and-sell",
+    "title": "Stock Buy and Sell",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 79
+      }
+    ]
+  },
+  "rearrange-array-elements-by-sign": {
+    "id": "rearrange-array-elements-by-sign",
+    "title": "Rearrange array elements by sign",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 80
+      }
+    ]
+  },
+  "next-permutation": {
+    "id": "next-permutation",
+    "title": "Next Permutation",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 81
+      }
+    ]
+  },
+  "leaders-in-an-array": {
+    "id": "leaders-in-an-array",
+    "title": "Leaders in an Array",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 82
+      }
+    ]
+  },
+  "longest-consecutive-sequence-in-an-array": {
+    "id": "longest-consecutive-sequence-in-an-array",
+    "title": "Longest Consecutive Sequence in an Array",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 83
+      }
+    ]
+  },
+  "rotate-matrix-by-90-degrees": {
+    "id": "rotate-matrix-by-90-degrees",
+    "title": "Rotate matrix by 90 degrees",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 85
+      }
+    ]
+  },
+  "print-the-matrix-in-spiral-manner": {
+    "id": "print-the-matrix-in-spiral-manner",
+    "title": "Print the matrix in spiral manner",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 86
+      }
+    ]
+  },
+  "count-subarrays-with-given-sum": {
+    "id": "count-subarrays-with-given-sum",
+    "title": "Count subarrays with given sum",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 87
+      }
+    ]
+  },
+  "pascals-triangle-i": {
+    "id": "pascals-triangle-i",
+    "title": "Pascal's Triangle I",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 88
+      }
+    ]
+  },
+  "majority-element-ii": {
+    "id": "majority-element-ii",
+    "title": "Majority Element-II",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 89
+      }
+    ]
+  },
+  "3-sum": {
+    "id": "3-sum",
+    "title": "3 Sum",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 90
+      }
+    ]
+  },
+  "4-sum": {
+    "id": "4-sum",
+    "title": "4 Sum",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 91
+      }
+    ]
+  },
+  "largest-subarray-with-sum-0": {
+    "id": "largest-subarray-with-sum-0",
+    "title": "Largest Subarray with Sum 0",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 92
+      }
+    ]
+  },
+  "count-subarrays-with-given-xor-k": {
+    "id": "count-subarrays-with-given-xor-k",
+    "title": "Count subarrays with given xor K",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 93
+      }
+    ]
+  },
+  "merge-overlapping-subintervals": {
+    "id": "merge-overlapping-subintervals",
+    "title": "Merge Overlapping Subintervals",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 94
+      }
+    ]
+  },
+  "merge-two-sorted-arrays-without-extra-space": {
+    "id": "merge-two-sorted-arrays-without-extra-space",
+    "title": "Merge two sorted arrays without extra space",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 95
+      }
+    ]
+  },
+  "find-the-repeating-and-missing-number": {
+    "id": "find-the-repeating-and-missing-number",
+    "title": "Find the repeating and missing number",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 96
+      }
+    ]
+  },
+  "count-inversions": {
+    "id": "count-inversions",
+    "title": "Count Inversions",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 97
+      }
+    ]
+  },
+  "reverse-pairs": {
+    "id": "reverse-pairs",
+    "title": "Reverse Pairs",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 98
+      }
+    ]
+  },
+  "maximum-product-subarray-in-an-array": {
+    "id": "maximum-product-subarray-in-an-array",
+    "title": "Maximum Product Subarray in an Array",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 99
+      }
+    ]
+  },
+  "search-x-in-sorted-array": {
+    "id": "search-x-in-sorted-array",
+    "title": "Search X in sorted array",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 100
+      }
+    ]
+  },
+  "lower-bound": {
+    "id": "lower-bound",
+    "title": "Lower Bound ",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 101
+      }
+    ]
+  },
+  "upper-bound": {
+    "id": "upper-bound",
+    "title": "Upper Bound",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 102
+      }
+    ]
+  },
+  "floor-and-ceil-in-sorted-array": {
+    "id": "floor-and-ceil-in-sorted-array",
+    "title": "Floor and Ceil in Sorted Array",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 103
+      }
+    ]
+  },
+  "first-and-last-occurrence": {
+    "id": "first-and-last-occurrence",
+    "title": "First and last occurrence",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 104
+      }
+    ]
+  },
+  "count-occurrences-in-a-sorted-array": {
+    "id": "count-occurrences-in-a-sorted-array",
+    "title": "Count Occurrences in a Sorted Array",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 105
+      }
+    ]
+  },
+  "search-in-rotated-sorted-array-i": {
+    "id": "search-in-rotated-sorted-array-i",
+    "title": "Search in rotated sorted array-I",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 106
+      }
+    ]
+  },
+  "search-in-rotated-sorted-array-ii": {
+    "id": "search-in-rotated-sorted-array-ii",
+    "title": "Search in rotated sorted array-II",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 107
+      }
+    ]
+  },
+  "find-out-how-many-times-the-array-is-rotated": {
+    "id": "find-out-how-many-times-the-array-is-rotated",
+    "title": "Find out how many times the array is rotated",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 109
+      }
+    ]
+  },
+  "single-element-in-a-sorted-array": {
+    "id": "single-element-in-a-sorted-array",
+    "title": "Single element in a Sorted Array",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 110
+      }
+    ]
+  },
+  "find-peak-element": {
+    "id": "find-peak-element",
+    "title": "Find peak element",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 111
+      }
+    ]
+  },
+  "find-square-root-of-a-number": {
+    "id": "find-square-root-of-a-number",
+    "title": "Find square root of a number",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 112
+      }
+    ]
+  },
+  "find-nth-root-of-a-number": {
+    "id": "find-nth-root-of-a-number",
+    "title": "Find Nth root of a number",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 113
+      }
+    ]
+  },
+  "minimum-days-to-make-m-bouquets": {
+    "id": "minimum-days-to-make-m-bouquets",
+    "title": "Minimum days to make M bouquets",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 115
+      }
+    ]
+  },
+  "find-the-smallest-divisor": {
+    "id": "find-the-smallest-divisor",
+    "title": "Find the smallest divisor",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 116
+      }
+    ]
+  },
+  "capacity-to-ship-packages-within-d-days": {
+    "id": "capacity-to-ship-packages-within-d-days",
+    "title": "Capacity to Ship Packages Within D Days",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 117
+      }
+    ]
+  },
+  "kth-missing-positive-number": {
+    "id": "kth-missing-positive-number",
+    "title": "Kth Missing Positive Number",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 118
+      }
+    ]
+  },
+  "aggressive-cows": {
+    "id": "aggressive-cows",
+    "title": "Aggressive Cows",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 119
+      }
+    ]
+  },
+  "book-allocation-problem": {
+    "id": "book-allocation-problem",
+    "title": "Book Allocation Problem",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 120
+      }
+    ]
+  },
+  "split-array---largest-sum": {
+    "id": "split-array---largest-sum",
+    "title": "Split array - largest sum",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 121
+      }
+    ]
+  },
+  "painters-partition": {
+    "id": "painters-partition",
+    "title": "Painter's Partition",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 122
+      }
+    ]
+  },
+  "minimize-max-distance-to-gas-station": {
+    "id": "minimize-max-distance-to-gas-station",
+    "title": "Minimize Max Distance to Gas Station",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 123
+      }
+    ]
+  },
+  "median-of-2-sorted-arrays": {
+    "id": "median-of-2-sorted-arrays",
+    "title": "Median of 2 sorted arrays",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 124
+      }
+    ]
+  },
+  "kth-element-of-2-sorted-arrays": {
+    "id": "kth-element-of-2-sorted-arrays",
+    "title": "Kth element of 2 sorted arrays",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 125
+      }
+    ]
+  },
+  "find-row-with-maximum-1s": {
+    "id": "find-row-with-maximum-1s",
+    "title": "Find row with maximum 1's",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 126
+      }
+    ]
+  },
+  "search-in-a-2d-matrix": {
+    "id": "search-in-a-2d-matrix",
+    "title": "Search in a 2D matrix",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 127
+      }
+    ]
+  },
+  "search-in-2d-matrix---ii": {
+    "id": "search-in-2d-matrix---ii",
+    "title": "Search in 2D matrix - II",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 128
+      }
+    ]
+  },
+  "find-peak-element---ii": {
+    "id": "find-peak-element---ii",
+    "title": "Find Peak Element - II",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 129
+      }
+    ]
+  },
+  "matrix-median": {
+    "id": "matrix-median",
+    "title": "Matrix Median",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 130
+      }
+    ]
+  },
+  "remove-outermost-parentheses": {
+    "id": "remove-outermost-parentheses",
+    "title": "Remove Outermost Parentheses",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 131
+      }
+    ]
+  },
+  "reverse-words-in-a-given-string-palindrome-check": {
+    "id": "reverse-words-in-a-given-string-palindrome-check",
+    "title": "Reverse words in a given string / Palindrome Check",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 132
+      }
+    ]
+  },
+  "largest-odd-number-in-a-string": {
+    "id": "largest-odd-number-in-a-string",
+    "title": "Largest Odd Number in a String",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 133
+      }
+    ]
+  },
+  "longest-common-prefix": {
+    "id": "longest-common-prefix",
+    "title": "Longest Common Prefix",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 134
+      }
+    ]
+  },
+  "isomorphic-string": {
+    "id": "isomorphic-string",
+    "title": "Isomorphic String",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 135
+      }
+    ]
+  },
+  "rotate-string": {
+    "id": "rotate-string",
+    "title": "Rotate String",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 136
+      }
+    ]
+  },
+  "check-if-two-strings-are-anagram-of-each-other": {
+    "id": "check-if-two-strings-are-anagram-of-each-other",
+    "title": "Check if two strings are anagram of each other",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 137
+      }
+    ]
+  },
+  "sort-characters-by-frequency": {
+    "id": "sort-characters-by-frequency",
+    "title": "Sort Characters by Frequency",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 138
+      }
+    ]
+  },
+  "maximum-nesting-depth-of-the-parentheses": {
+    "id": "maximum-nesting-depth-of-the-parentheses",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 139
+      }
+    ]
+  },
+  "roman-to-integer": {
+    "id": "roman-to-integer",
+    "title": "Roman to Integer",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 140
+      }
+    ]
+  },
+  "string-to-integer-atoi": {
+    "id": "string-to-integer-atoi",
+    "title": "String to Integer (atoi)",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 141
+      }
+    ]
+  },
+  "count-number-of-substrings": {
+    "id": "count-number-of-substrings",
+    "title": "Count Number of Substrings",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 142
+      }
+    ]
+  },
+  "sum-of-beauty-of-all-substrings": {
+    "id": "sum-of-beauty-of-all-substrings",
+    "title": "Sum of Beauty of All Substrings",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 144
+      }
+    ]
+  },
+  "reverse-every-word-in-a-string": {
+    "id": "reverse-every-word-in-a-string",
+    "title": "Reverse every word in a string",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 145
+      }
+    ]
+  },
+  "introduction-to-singly-linkedlist": {
+    "id": "introduction-to-singly-linkedlist",
+    "title": "Introduction to Singly LinkedList",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 146
+      }
+    ]
+  },
+  "insertion-at-the-head-of-linked-list": {
+    "id": "insertion-at-the-head-of-linked-list",
+    "title": "Insertion at the head of Linked List",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 147
+      }
+    ]
+  },
+  "deletion-of-the-head-of-ll": {
+    "id": "deletion-of-the-head-of-ll",
+    "title": "Deletion of the head of LL",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 148
+      }
+    ]
+  },
+  "find-the-length-of-the-linked-list": {
+    "id": "find-the-length-of-the-linked-list",
+    "title": "Find the length of the Linked List",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 149
+      }
+    ]
+  },
+  "search-in-linked-list": {
+    "id": "search-in-linked-list",
+    "title": "Search in Linked List",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 150
+      }
+    ]
+  },
+  "introduction-to-doubly-ll": {
+    "id": "introduction-to-doubly-ll",
+    "title": "Introduction to Doubly LL",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 151
+      }
+    ]
+  },
+  "insert-node-before-head-in-doubly-linked-list": {
+    "id": "insert-node-before-head-in-doubly-linked-list",
+    "title": "Insert node before head in Doubly Linked List",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 152
+      }
+    ]
+  },
+  "delete-head-of-doubly-linked-list": {
+    "id": "delete-head-of-doubly-linked-list",
+    "title": "Delete head of Doubly Linked List",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 153
+      }
+    ]
+  },
+  "reverse-a-doubly-linked-list": {
+    "id": "reverse-a-doubly-linked-list",
+    "title": "Reverse a Doubly Linked List",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 154
+      }
+    ]
+  },
+  "middle-of-a-linkedlist-tortoisehare-method": {
+    "id": "middle-of-a-linkedlist-tortoisehare-method",
+    "title": "Middle of a LinkedList [TortoiseHare Method]",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 155
+      }
+    ]
+  },
+  "reverse-a-linkedlist-iterative": {
+    "id": "reverse-a-linkedlist-iterative",
+    "title": "Reverse a LinkedList [Iterative]",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 156
+      }
+    ]
+  },
+  "reverse-a-ll": {
+    "id": "reverse-a-ll",
+    "title": "Reverse a LL",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 157
+      }
+    ]
+  },
+  "detect-a-loop-in-ll": {
+    "id": "detect-a-loop-in-ll",
+    "title": "Detect a loop in LL",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 158
+      }
+    ]
+  },
+  "find-the-starting-point-in-ll": {
+    "id": "find-the-starting-point-in-ll",
+    "title": "Find the starting point in LL",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 159
+      }
+    ]
+  },
+  "length-of-loop-in-ll": {
+    "id": "length-of-loop-in-ll",
+    "title": "Length of loop in LL",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 160
+      }
+    ]
+  },
+  "check-if-ll-is-palindrome-or-not": {
+    "id": "check-if-ll-is-palindrome-or-not",
+    "title": "Check if LL is palindrome or not",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 161
+      }
+    ]
+  },
+  "segregate-odd-and-even-nodes-in-linked-list": {
+    "id": "segregate-odd-and-even-nodes-in-linked-list",
+    "title": "Segregate odd and even nodes in Linked List",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 162
+      }
+    ]
+  },
+  "remove-nth-node-from-the-back-of-the-ll": {
+    "id": "remove-nth-node-from-the-back-of-the-ll",
+    "title": "Remove Nth node from the back of the LL",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 163
+      }
+    ]
+  },
+  "delete-the-middle-node-in-ll": {
+    "id": "delete-the-middle-node-in-ll",
+    "title": "Delete the middle node in LL",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 164
+      }
+    ]
+  },
+  "sort-ll": {
+    "id": "sort-ll",
+    "title": "Sort LL",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 165
+      }
+    ]
+  },
+  "sort-a-linked-list-of-0s-1s-and-2s": {
+    "id": "sort-a-linked-list-of-0s-1s-and-2s",
+    "title": "Sort a Linked List of 0's 1's and 2's",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 166
+      }
+    ]
+  },
+  "find-the-intersection-point-of-y-ll": {
+    "id": "find-the-intersection-point-of-y-ll",
+    "title": "Find the intersection point of Y LL",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 167
+      }
+    ]
+  },
+  "add-one-to-a-number-represented-by-ll": {
+    "id": "add-one-to-a-number-represented-by-ll",
+    "title": "Add one to a number represented by LL",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 168
+      }
+    ]
+  },
+  "add-two-numbers-in-linked-list": {
+    "id": "add-two-numbers-in-linked-list",
+    "title": "Add two numbers in Linked List",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 169
+      }
+    ]
+  },
+  "delete-all-occurrences-of-a-key-in-dll": {
+    "id": "delete-all-occurrences-of-a-key-in-dll",
+    "title": "Delete all occurrences of a key in DLL",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 170
+      }
+    ]
+  },
+  "find-pairs-with-given-sum-in-doubly-linked-list": {
+    "id": "find-pairs-with-given-sum-in-doubly-linked-list",
+    "title": "Find Pairs with Given Sum in Doubly Linked List",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 171
+      }
+    ]
+  },
+  "remove-duplicates-from-sorted-dll": {
+    "id": "remove-duplicates-from-sorted-dll",
+    "title": "Remove duplicates from sorted DLL",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 172
+      }
+    ]
+  },
+  "reverse-ll-in-group-of-given-size-k": {
+    "id": "reverse-ll-in-group-of-given-size-k",
+    "title": "Reverse LL in group of given size K",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 173
+      }
+    ]
+  },
+  "rotate-a-ll": {
+    "id": "rotate-a-ll",
+    "title": "Rotate a LL",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 174
+      }
+    ]
+  },
+  "flattening-of-ll": {
+    "id": "flattening-of-ll",
+    "title": "Flattening of LL",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 175
+      }
+    ]
+  },
+  "clone-a-ll-with-random-and-next-pointer": {
+    "id": "clone-a-ll-with-random-and-next-pointer",
+    "title": "Clone a LL with random and next pointer",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 176
+      }
+    ]
+  },
+  "recursive-implementation-of-atoi": {
+    "id": "recursive-implementation-of-atoi",
+    "title": "Recursive Implementation of atoi()",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 177
+      }
+    ]
+  },
+  "count-good-numbers": {
+    "id": "count-good-numbers",
+    "title": "Count Good Numbers",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 179
+      }
+    ]
+  },
+  "sort-a-stack-using-recursion": {
+    "id": "sort-a-stack-using-recursion",
+    "title": "Sort a stack using recursion",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 180
+      }
+    ]
+  },
+  "reverse-a-stack": {
+    "id": "reverse-a-stack",
+    "title": "Reverse a Stack",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 181
+      }
+    ]
+  },
+  "generate-binary-strings-without-consecutive-1s": {
+    "id": "generate-binary-strings-without-consecutive-1s",
+    "title": "Generate Binary Strings Without Consecutive 1s",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 182
+      }
+    ]
+  },
+  "power-set": {
+    "id": "power-set",
+    "title": "Power Set",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 184
+      }
+    ]
+  },
+  "learn-all-patterns-of-subsequences-theory": {
+    "id": "learn-all-patterns-of-subsequences-theory",
+    "title": "Learn All Patterns of Subsequences (Theory)",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 185
+      }
+    ]
+  },
+  "count-all-subsequences-with-sum-k": {
+    "id": "count-all-subsequences-with-sum-k",
+    "title": "Count all subsequences with sum K",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 186
+      }
+    ]
+  },
+  "check-if-there-exists-a-subsequence-with-sum-k": {
+    "id": "check-if-there-exists-a-subsequence-with-sum-k",
+    "title": "Check if there exists a subsequence with sum K",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 187
+      }
+    ]
+  },
+  "subsets-i": {
+    "id": "subsets-i",
+    "title": "Subsets I",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 190
+      }
+    ]
+  },
+  "combination-sum-iii": {
+    "id": "combination-sum-iii",
+    "title": "Combination Sum III",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 192
+      }
+    ]
+  },
+  "n-queen": {
+    "id": "n-queen",
+    "title": "N Queen",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 196
+      }
+    ]
+  },
+  "rat-in-a-maze": {
+    "id": "rat-in-a-maze",
+    "title": "Rat in a Maze",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 197
+      }
+    ]
+  },
+  "m-coloring-problem": {
+    "id": "m-coloring-problem",
+    "title": "M Coloring Problem",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 199
+      }
+    ]
+  },
+  "sudoku-solver": {
+    "id": "sudoku-solver",
+    "title": "Sudoku Solver",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 200
+      }
+    ]
+  },
+  "expression-add-operators": {
+    "id": "expression-add-operators",
+    "title": "Expression Add Operators",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 201
+      }
+    ]
+  },
+  "introduction-to-bits-and-tricks": {
+    "id": "introduction-to-bits-and-tricks",
+    "title": "Introduction to Bits and Tricks",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 202
+      }
+    ]
+  },
+  "check-if-the-i-th-bit-is-set-or-not": {
+    "id": "check-if-the-i-th-bit-is-set-or-not",
+    "title": "Check if the i-th bit is Set or Not",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 203
+      }
+    ]
+  },
+  "check-if-a-number-is-odd-or-not": {
+    "id": "check-if-a-number-is-odd-or-not",
+    "title": "Check if a Number is Odd or Not",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 204
+      }
+    ]
+  },
+  "check-if-a-number-is-power-of-2-or-not": {
+    "id": "check-if-a-number-is-power-of-2-or-not",
+    "title": "Check if a Number is Power of 2 or Not",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 205
+      }
+    ]
+  },
+  "count-the-number-of-set-bits": {
+    "id": "count-the-number-of-set-bits",
+    "title": "Count the Number of Set Bits",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 206
+      }
+    ]
+  },
+  "setunset-the-rightmost-unset-bit": {
+    "id": "setunset-the-rightmost-unset-bit",
+    "title": "Set/Unset the rightmost unset bit",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 207
+      }
+    ]
+  },
+  "swap-two-numbers": {
+    "id": "swap-two-numbers",
+    "title": "Swap Two Numbers",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 208
+      }
+    ]
+  },
+  "divide-two-numbers-without-multiplication-and-division": {
+    "id": "divide-two-numbers-without-multiplication-and-division",
+    "title": "Divide two numbers without multiplication and division",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 209
+      }
+    ]
+  },
+  "minimum-bit-flips-to-convert-number": {
+    "id": "minimum-bit-flips-to-convert-number",
+    "title": "Minimum Bit Flips to Convert Number",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 210
+      }
+    ]
+  },
+  "single-number---i": {
+    "id": "single-number---i",
+    "title": "Single Number - I",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 211
+      }
+    ]
+  },
+  "power-set-bit-manipulation": {
+    "id": "power-set-bit-manipulation",
+    "title": "Power Set Bit Manipulation",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 212
+      }
+    ]
+  },
+  "xor-of-numbers-in-a-given-range": {
+    "id": "xor-of-numbers-in-a-given-range",
+    "title": "XOR of numbers in a given range",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 213
+      }
+    ]
+  },
+  "single-number---iii": {
+    "id": "single-number---iii",
+    "title": "Single Number - III",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 214
+      }
+    ]
+  },
+  "print-prime-factors-of-a-number": {
+    "id": "print-prime-factors-of-a-number",
+    "title": "Print Prime Factors of a Number",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 215
+      }
+    ]
+  },
+  "divisors-of-a-number": {
+    "id": "divisors-of-a-number",
+    "title": "Divisors of a Number",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 216
+      }
+    ]
+  },
+  "count-primes-in-range-l-to-r": {
+    "id": "count-primes-in-range-l-to-r",
+    "title": "Count primes in range L to R",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 217
+      }
+    ]
+  },
+  "prime-factorisation-of-a-number": {
+    "id": "prime-factorisation-of-a-number",
+    "title": "Prime factorisation of a Number",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 218
+      }
+    ]
+  },
+  "powxn": {
+    "id": "powxn",
+    "title": "Pow(x,n)",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 219
+      }
+    ]
+  },
+  "implement-stack-using-arrays": {
+    "id": "implement-stack-using-arrays",
+    "title": "Implement Stack using Arrays",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 220
+      }
+    ]
+  },
+  "implement-queue-using-arrays": {
+    "id": "implement-queue-using-arrays",
+    "title": "Implement Queue using Arrays",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 221
+      }
+    ]
+  },
+  "implement-stack-using-queue": {
+    "id": "implement-stack-using-queue",
+    "title": "Implement Stack using Queue",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 222
+      }
+    ]
+  },
+  "implement-queue-using-stack": {
+    "id": "implement-queue-using-stack",
+    "title": "Implement Queue using Stack",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 223
+      }
+    ]
+  },
+  "implement-stack-using-linkedlist": {
+    "id": "implement-stack-using-linkedlist",
+    "title": "Implement stack using Linkedlist",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 224
+      }
+    ]
+  },
+  "implement-queue-using-linkedlist": {
+    "id": "implement-queue-using-linkedlist",
+    "title": "Implement queue using Linkedlist",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 225
+      }
+    ]
+  },
+  "balanced-paranthesis": {
+    "id": "balanced-paranthesis",
+    "title": "Balanced Paranthesis",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 226
+      }
+    ]
+  },
+  "implement-min-stack": {
+    "id": "implement-min-stack",
+    "title": "Implement Min Stack",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 227
+      }
+    ]
+  },
+  "infix-to-postfix-conversion": {
+    "id": "infix-to-postfix-conversion",
+    "title": "Infix to Postfix Conversion",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 228
+      }
+    ]
+  },
+  "prefix-to-infix-conversion": {
+    "id": "prefix-to-infix-conversion",
+    "title": "Prefix to Infix Conversion",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 229
+      }
+    ]
+  },
+  "prefix-to-postfix-conversion": {
+    "id": "prefix-to-postfix-conversion",
+    "title": "Prefix to Postfix Conversion",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 230
+      }
+    ]
+  },
+  "postfix-to-prefix-conversion": {
+    "id": "postfix-to-prefix-conversion",
+    "title": "Postfix to Prefix Conversion",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 231
+      }
+    ]
+  },
+  "postfix-to-infix-conversion": {
+    "id": "postfix-to-infix-conversion",
+    "title": "Postfix to Infix Conversion",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 232
+      }
+    ]
+  },
+  "infix-to-prefix-conversion": {
+    "id": "infix-to-prefix-conversion",
+    "title": "Infix to Prefix Conversion",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 233
+      }
+    ]
+  },
+  "next-greater-element": {
+    "id": "next-greater-element",
+    "title": "Next Greater Element",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 234
+      }
+    ]
+  },
+  "next-greater-element---2": {
+    "id": "next-greater-element---2",
+    "title": "Next Greater Element - 2",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 235
+      }
+    ]
+  },
+  "next-smaller-element": {
+    "id": "next-smaller-element",
+    "title": "Next Smaller Element",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 236
+      }
+    ]
+  },
+  "number-of-greater-elements-to-the-right": {
+    "id": "number-of-greater-elements-to-the-right",
+    "title": "Number of Greater Elements to the Right",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 237
+      }
+    ]
+  },
+  "trapping-rainwater": {
+    "id": "trapping-rainwater",
+    "title": "Trapping Rainwater",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 238
+      }
+    ]
+  },
+  "sum-of-subarray-minimums": {
+    "id": "sum-of-subarray-minimums",
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 239
+      }
+    ]
+  },
+  "asteroid-collision": {
+    "id": "asteroid-collision",
+    "title": "Asteroid Collision",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 240
+      }
+    ]
+  },
+  "sum-of-subarray-ranges": {
+    "id": "sum-of-subarray-ranges",
+    "title": "Sum of Subarray Ranges",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 241
+      }
+    ]
+  },
+  "remove-k-digits": {
+    "id": "remove-k-digits",
+    "title": "Remove K Digits",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 242
+      }
+    ]
+  },
+  "largest-rectangle-in-a-histogram": {
+    "id": "largest-rectangle-in-a-histogram",
+    "title": "Largest rectangle in a histogram",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 243
+      }
+    ]
+  },
+  "maximum-rectangles": {
+    "id": "maximum-rectangles",
+    "title": "Maximum Rectangles",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 244
+      }
+    ]
+  },
+  "stock-span-problem": {
+    "id": "stock-span-problem",
+    "title": "Stock span problem",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 246
+      }
+    ]
+  },
+  "celebrity-problem": {
+    "id": "celebrity-problem",
+    "title": "Celebrity Problem",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 247
+      }
+    ]
+  },
+  "lfu-cache": {
+    "id": "lfu-cache",
+    "title": "LFU Cache",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 249
+      }
+    ]
+  },
+  "max-consecutive-ones-iii": {
+    "id": "max-consecutive-ones-iii",
+    "title": " Max Consecutive Ones III",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 251
+      }
+    ]
+  },
+  "fruit-into-baskets": {
+    "id": "fruit-into-baskets",
+    "title": " Fruit Into Baskets",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 252
+      }
+    ]
+  },
+  "binary-subarrays-with-sum": {
+    "id": "binary-subarrays-with-sum",
+    "title": "Binary Subarrays With Sum",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 254
+      }
+    ]
+  },
+  "count-number-of-nice-subarrays": {
+    "id": "count-number-of-nice-subarrays",
+    "title": "Count number of Nice subarrays",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 255
+      }
+    ]
+  },
+  "number-of-substrings-containing-all-three-characters": {
+    "id": "number-of-substrings-containing-all-three-characters",
+    "title": "Number of Substrings Containing All Three Characters",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 256
+      }
+    ]
+  },
+  "maximum-points-you-can-obtain-from-cards": {
+    "id": "maximum-points-you-can-obtain-from-cards",
+    "title": "Maximum Points You Can Obtain from Cards ",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 257
+      }
+    ]
+  },
+  "longest-substring-with-at-most-k-distinct-characters": {
+    "id": "longest-substring-with-at-most-k-distinct-characters",
+    "title": "Longest Substring With At Most K Distinct Characters",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 258
+      }
+    ]
+  },
+  "subarrays-with-k-different-integers": {
+    "id": "subarrays-with-k-different-integers",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 259
+      }
+    ]
+  },
+  "minimum-window-subsequence": {
+    "id": "minimum-window-subsequence",
+    "title": "Minimum Window Subsequence",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 261
+      }
+    ]
+  },
+  "heaps-theory-video": {
+    "id": "heaps-theory-video",
+    "title": "Heaps (Theory Video)",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 262
+      }
+    ]
+  },
+  "implement-min-heap": {
+    "id": "implement-min-heap",
+    "title": "Implement Min Heap",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 263
+      }
+    ]
+  },
+  "check-if-an-array-represents-a-min-heap": {
+    "id": "check-if-an-array-represents-a-min-heap",
+    "title": "Check if an array represents a min heap ",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 264
+      }
+    ]
+  },
+  "convert-min-heap-to-max-heap": {
+    "id": "convert-min-heap-to-max-heap",
+    "title": "Convert Min Heap to Max Heap",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 265
+      }
+    ]
+  },
+  "kth-smallest-element-in-an-array-use-priority-queue": {
+    "id": "kth-smallest-element-in-an-array-use-priority-queue",
+    "title": "Kth smallest element in an array [use priority queue]",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 267
+      }
+    ]
+  },
+  "sort-k-sorted-array": {
+    "id": "sort-k-sorted-array",
+    "title": "Sort K sorted array",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 268
+      }
+    ]
+  },
+  "replace-elements-by-their-rank": {
+    "id": "replace-elements-by-their-rank",
+    "title": "Replace Elements by Their Rank",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 270
+      }
+    ]
+  },
+  "mi": {
+    "id": "mi",
+    "title": "Mi",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 274
+      }
+    ]
+  },
+  "kth-largest-element-in-a-stream-of-running-integers": {
+    "id": "kth-largest-element-in-a-stream-of-running-integers",
+    "title": "Kth largest element in a stream of running integers",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 275
+      }
+    ]
+  },
+  "maximum-sum-combination": {
+    "id": "maximum-sum-combination",
+    "title": "Maximum Sum Combination",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 276
+      }
+    ]
+  },
+  "assign-cookies": {
+    "id": "assign-cookies",
+    "title": "Assign Cookies",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 279
+      },
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 418
+      }
+    ]
+  },
+  "fractional-knapsack": {
+    "id": "fractional-knapsack",
+    "title": "Fractional Knapsack",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 280
+      }
+    ]
+  },
+  "lemonade-change": {
+    "id": "lemonade-change",
+    "title": "Lemonade Change",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 281
+      }
+    ]
+  },
+  "valid-paranthesis-checker": {
+    "id": "valid-paranthesis-checker",
+    "title": "Valid Paranthesis Checker",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 282
+      }
+    ]
+  },
+  "n-meetings-in-one-room": {
+    "id": "n-meetings-in-one-room",
+    "title": "N meetings in one room",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 283
+      }
+    ]
+  },
+  "jump-game---i": {
+    "id": "jump-game---i",
+    "title": "Jump Game - I",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 284
+      }
+    ]
+  },
+  "minimum-number-of-platforms-required-for-a-railway": {
+    "id": "minimum-number-of-platforms-required-for-a-railway",
+    "title": "Minimum number of platforms required for a railway",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 286
+      }
+    ]
+  },
+  "job-sequencing-problem": {
+    "id": "job-sequencing-problem",
+    "title": "Job sequencing Problem",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 287
+      }
+    ]
+  },
+  "candy": {
+    "id": "candy",
+    "title": "Candy",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 288
+      }
+    ]
+  },
+  "shortest-job-first": {
+    "id": "shortest-job-first",
+    "title": "Shortest Job First",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 289
+      }
+    ]
+  },
+  "program-for-least-recently-used-lru-page-replacement-algorithm": {
+    "id": "program-for-least-recently-used-lru-page-replacement-algorithm",
+    "title": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 290
+      }
+    ]
+  },
+  "non-overlapping-intervals-1": {
+    "id": "non-overlapping-intervals-1",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 293
+      }
+    ]
+  },
+  "introduction-to-trees": {
+    "id": "introduction-to-trees",
+    "title": "Introduction to Trees",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 294
+      }
+    ]
+  },
+  "binary-tree-representation-in-java": {
+    "id": "binary-tree-representation-in-java",
+    "title": "Binary Tree Representation in Java",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 295
+      }
+    ]
+  },
+  "pre-post-inorder-in-one-traversal": {
+    "id": "pre-post-inorder-in-one-traversal",
+    "title": "Pre, Post, Inorder in one traversal",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 296
+      }
+    ]
+  },
+  "preorder-traversal": {
+    "id": "preorder-traversal",
+    "title": "Preorder Traversal",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 297
+      }
+    ]
+  },
+  "inorder-traversal-of-binary-tree": {
+    "id": "inorder-traversal-of-binary-tree",
+    "title": "Inorder Traversal of Binary Tree",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 298
+      }
+    ]
+  },
+  "postorder-traversal": {
+    "id": "postorder-traversal",
+    "title": "Postorder Traversal",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 299
+      }
+    ]
+  },
+  "level-order-traversal": {
+    "id": "level-order-traversal",
+    "title": "Level Order Traversal",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 300
+      }
+    ]
+  },
+  "iterative-preorder-traversal-of-binary-tree": {
+    "id": "iterative-preorder-traversal-of-binary-tree",
+    "title": "Iterative Preorder Traversal of Binary Tree",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 301
+      }
+    ]
+  },
+  "iterative-inorder-traversal-of-binary-tree": {
+    "id": "iterative-inorder-traversal-of-binary-tree",
+    "title": "Iterative Inorder Traversal of Binary Tree",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 302
+      }
+    ]
+  },
+  "post-order-traversal-of-binary-tree-using-2-stack": {
+    "id": "post-order-traversal-of-binary-tree-using-2-stack",
+    "title": "Post-order Traversal of Binary Tree using 2 stack",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 303
+      }
+    ]
+  },
+  "post-order-traversal-of-binary-tree-using-1-stack": {
+    "id": "post-order-traversal-of-binary-tree-using-1-stack",
+    "title": "Post-order Traversal of Binary Tree using 1 stack",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 304
+      }
+    ]
+  },
+  "preorder-inorder-and-postorder-traversal-in-one-traversal": {
+    "id": "preorder-inorder-and-postorder-traversal-in-one-traversal",
+    "title": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 305
+      }
+    ]
+  },
+  "maximum-depth-in-bt": {
+    "id": "maximum-depth-in-bt",
+    "title": "Maximum Depth in BT",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 306
+      }
+    ]
+  },
+  "check-for-balanced-binary-tree": {
+    "id": "check-for-balanced-binary-tree",
+    "title": "Check for balanced binary tree",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 307
+      }
+    ]
+  },
+  "maximum-path-sum": {
+    "id": "maximum-path-sum",
+    "title": "Maximum path sum ",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 309
+      }
+    ]
+  },
+  "check-if-two-trees-are-identical-or-not": {
+    "id": "check-if-two-trees-are-identical-or-not",
+    "title": "Check if two trees are identical or not",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 310
+      }
+    ]
+  },
+  "zig-zag-or-spiral-traversal": {
+    "id": "zig-zag-or-spiral-traversal",
+    "title": "Zig Zag or Spiral Traversal",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 311
+      }
+    ]
+  },
+  "boundary-traversal": {
+    "id": "boundary-traversal",
+    "title": "Boundary Traversal",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 312
+      }
+    ]
+  },
+  "vertical-order-traversal": {
+    "id": "vertical-order-traversal",
+    "title": "Vertical Order Traversal",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 313
+      }
+    ]
+  },
+  "top-view-of-bt": {
+    "id": "top-view-of-bt",
+    "title": "Top View of BT",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 314
+      }
+    ]
+  },
+  "bottom-view-of-bt": {
+    "id": "bottom-view-of-bt",
+    "title": "Bottom view of BT",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 315
+      }
+    ]
+  },
+  "rightleft-view-of-binary-tree": {
+    "id": "rightleft-view-of-binary-tree",
+    "title": "Right/Left View of Binary Tree",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 316
+      }
+    ]
+  },
+  "symmetric-binary-tree": {
+    "id": "symmetric-binary-tree",
+    "title": "Symmetric Binary Tree",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 317
+      }
+    ]
+  },
+  "print-root-to-leaf-path-in-bt": {
+    "id": "print-root-to-leaf-path-in-bt",
+    "title": "Print root to leaf path in BT",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 318
+      }
+    ]
+  },
+  "lca-in-bt": {
+    "id": "lca-in-bt",
+    "title": "LCA in BT",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 319
+      }
+    ]
+  },
+  "maximum-width-of-bt": {
+    "id": "maximum-width-of-bt",
+    "title": "Maximum Width of BT",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 320
+      }
+    ]
+  },
+  "children-sum-property-in-binary-tree": {
+    "id": "children-sum-property-in-binary-tree",
+    "title": "Children Sum Property in Binary Tree",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 321
+      }
+    ]
+  },
+  "print-all-nodes-at-a-distance-of-k-in-bt": {
+    "id": "print-all-nodes-at-a-distance-of-k-in-bt",
+    "title": "Print all nodes at a distance of K in BT",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 322
+      }
+    ]
+  },
+  "minimum-time-taken-to-burn-the-bt-from-a-given-node": {
+    "id": "minimum-time-taken-to-burn-the-bt-from-a-given-node",
+    "title": "Minimum time taken to burn the BT from a given Node",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 323
+      }
+    ]
+  },
+  "count-total-nodes-in-a-complete-bt": {
+    "id": "count-total-nodes-in-a-complete-bt",
+    "title": "Count total nodes in a complete BT",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 324
+      }
+    ]
+  },
+  "requirements-needed-to-construct-a-unique-bt": {
+    "id": "requirements-needed-to-construct-a-unique-bt",
+    "title": "Requirements needed to construct a unique BT",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 325
+      }
+    ]
+  },
+  "construct-a-bt-from-preorder-and-inorder": {
+    "id": "construct-a-bt-from-preorder-and-inorder",
+    "title": "Construct a BT from Preorder and Inorder",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 326
+      }
+    ]
+  },
+  "construct-the-binary-tree-from-postorder-and-inorder-traversal": {
+    "id": "construct-the-binary-tree-from-postorder-and-inorder-traversal",
+    "title": "Construct the Binary Tree from Postorder and Inorder Traversal",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 327
+      }
+    ]
+  },
+  "serialize-and-de-serialize-bt": {
+    "id": "serialize-and-de-serialize-bt",
+    "title": "Serialize and De-serialize BT",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 328
+      }
+    ]
+  },
+  "morris-preorder-traversal-of-a-binary-tree": {
+    "id": "morris-preorder-traversal-of-a-binary-tree",
+    "title": "Morris Preorder Traversal of a Binary Tree",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 329
+      }
+    ]
+  },
+  "morris-inorder-traversal-of-a-binary-tree": {
+    "id": "morris-inorder-traversal-of-a-binary-tree",
+    "title": "Morris Inorder Traversal of a Binary Tree",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 330
+      }
+    ]
+  },
+  "flatten-binary-tree-to-linked-list": {
+    "id": "flatten-binary-tree-to-linked-list",
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 331
+      }
+    ]
+  },
+  "introduction-to-bst": {
+    "id": "introduction-to-bst",
+    "title": "Introduction to BST",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 332
+      }
+    ]
+  },
+  "search-in-a-binary-search-tree": {
+    "id": "search-in-a-binary-search-tree",
+    "title": "Search in a Binary Search Tree",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 333
+      }
+    ]
+  },
+  "find-minmax-in-bst": {
+    "id": "find-minmax-in-bst",
+    "title": "Find Min/Max in BST",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 334
+      }
+    ]
+  },
+  "floor-and-ceil-in-a-bst": {
+    "id": "floor-and-ceil-in-a-bst",
+    "title": "Floor and Ceil in a BST",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 335
+      }
+    ]
+  },
+  "floor-in-a-binary-search-tree": {
+    "id": "floor-in-a-binary-search-tree",
+    "title": "Floor in a Binary Search Tree",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 336
+      }
+    ]
+  },
+  "insert-a-given-node-in-bst": {
+    "id": "insert-a-given-node-in-bst",
+    "title": "Insert a given node in BST",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 337
+      }
+    ]
+  },
+  "delete-a-node-in-bst": {
+    "id": "delete-a-node-in-bst",
+    "title": "Delete a node in BST",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 338
+      }
+    ]
+  },
+  "kth-smallest-and-largest-element-in-bst": {
+    "id": "kth-smallest-and-largest-element-in-bst",
+    "title": "Kth Smallest and Largest element in BST",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 339
+      }
+    ]
+  },
+  "check-if-a-tree-is-a-bst-or-not": {
+    "id": "check-if-a-tree-is-a-bst-or-not",
+    "title": "Check if a tree is a BST or not",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 340
+      }
+    ]
+  },
+  "lca-in-bst": {
+    "id": "lca-in-bst",
+    "title": "LCA in BST",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 341
+      }
+    ]
+  },
+  "construct-a-bst-from-a-preorder-traversal": {
+    "id": "construct-a-bst-from-a-preorder-traversal",
+    "title": "Construct a BST from a preorder traversal",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 342
+      }
+    ]
+  },
+  "inorder-successorpredecessor-in-bst": {
+    "id": "inorder-successorpredecessor-in-bst",
+    "title": "Inorder Successor/Predecessor in BST",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 343
+      }
+    ]
+  },
+  "merge-2-bsts": {
+    "id": "merge-2-bsts",
+    "title": "Merge 2 BST's",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 344
+      }
+    ]
+  },
+  "two-sum-in-bst-check-if-there-exists-a-pair-with-sum-k": {
+    "id": "two-sum-in-bst-check-if-there-exists-a-pair-with-sum-k",
+    "title": "Two Sum In BST | Check if there exists a pair with Sum K",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 345
+      }
+    ]
+  },
+  "correct-bst-with-two-nodes-swapped": {
+    "id": "correct-bst-with-two-nodes-swapped",
+    "title": "Correct BST with two nodes swapped",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 346
+      }
+    ]
+  },
+  "largest-bst-in-binary-tree": {
+    "id": "largest-bst-in-binary-tree",
+    "title": "Largest BST in Binary Tree",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 347
+      }
+    ]
+  },
+  "introduction-to-graph": {
+    "id": "introduction-to-graph",
+    "title": "Introduction to Graph",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 348
+      }
+    ]
+  },
+  "graph-representation-c": {
+    "id": "graph-representation-c",
+    "title": "Graph Representation | C++",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 349
+      }
+    ]
+  },
+  "graph-representation-java": {
+    "id": "graph-representation-java",
+    "title": "Graph Representation | Java",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 350
+      }
+    ]
+  },
+  "connected-compone": {
+    "id": "connected-compone",
+    "title": "Connected Compone",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 351
+      }
+    ]
+  },
+  "traversal-techniques": {
+    "id": "traversal-techniques",
+    "title": "Traversal Techniques",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 352
+      }
+    ]
+  },
+  "dfs": {
+    "id": "dfs",
+    "title": "DFS",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 353
+      }
+    ]
+  },
+  "number-of-provinces": {
+    "id": "number-of-provinces",
+    "title": "Number of provinces",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 354
+      }
+    ]
+  },
+  "connected-components-problem-in-matrix": {
+    "id": "connected-components-problem-in-matrix",
+    "title": "Connected Components Problem in Matrix",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 355
+      }
+    ]
+  },
+  "rotten-oranges": {
+    "id": "rotten-oranges",
+    "title": "Rotten Oranges",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 356
+      }
+    ]
+  },
+  "flood-fill-algorithm": {
+    "id": "flood-fill-algorithm",
+    "title": "Flood fill algorithm",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 357
+      }
+    ]
+  },
+  "cycle-detection-in-undirected-graph-bfs": {
+    "id": "cycle-detection-in-undirected-graph-bfs",
+    "title": "Cycle Detection in Undirected Graph (bfs)",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 358
+      }
+    ]
+  },
+  "detect-a-cycle-in-an-undirected-graph": {
+    "id": "detect-a-cycle-in-an-undirected-graph",
+    "title": "Detect a cycle in an undirected graph",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 359
+      }
+    ]
+  },
+  "distance-of-nearest-cell-having-one": {
+    "id": "distance-of-nearest-cell-having-one",
+    "title": "Distance of nearest cell having one",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 360
+      }
+    ]
+  },
+  "number-of-enclaves": {
+    "id": "number-of-enclaves",
+    "title": "Number of enclaves",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 362
+      }
+    ]
+  },
+  "word-ladder-i": {
+    "id": "word-ladder-i",
+    "title": "Word ladder I",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 363
+      }
+    ]
+  },
+  "word-ladder-ii": {
+    "id": "word-ladder-ii",
+    "title": "Word ladder II",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 364
+      }
+    ]
+  },
+  "bipartite-graph-dfs": {
+    "id": "bipartite-graph-dfs",
+    "title": "Bipartite Graph (DFS)",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 366
+      }
+    ]
+  },
+  "cycle-detection-in-directed-graph-dfs": {
+    "id": "cycle-detection-in-directed-graph-dfs",
+    "title": "Cycle Detection in Directed Graph (DFS)",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 367
+      }
+    ]
+  },
+  "topo-sort": {
+    "id": "topo-sort",
+    "title": "Topo Sort",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 368
+      }
+    ]
+  },
+  "topological-sort-or-kahns-algorithm": {
+    "id": "topological-sort-or-kahns-algorithm",
+    "title": "Topological sort or Kahn's algorithm",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 369
+      }
+    ]
+  },
+  "detect-a-cycle-in-a-directed-graph": {
+    "id": "detect-a-cycle-in-a-directed-graph",
+    "title": "Detect a cycle in a directed graph",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 370
+      }
+    ]
+  },
+  "course-schedule-i": {
+    "id": "course-schedule-i",
+    "title": "Course Schedule I",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 371
+      }
+    ]
+  },
+  "find-eventual-safe-states": {
+    "id": "find-eventual-safe-states",
+    "title": "Find eventual safe states",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 373
+      }
+    ]
+  },
+  "shortest-path-in-undirected-graph-with-unit-weights": {
+    "id": "shortest-path-in-undirected-graph-with-unit-weights",
+    "title": "Shortest path in undirected graph with unit weights",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 375
+      }
+    ]
+  },
+  "shortest-path-in-dag": {
+    "id": "shortest-path-in-dag",
+    "title": "Shortest path in DAG",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 376
+      }
+    ]
+  },
+  "djisktras-algorithm": {
+    "id": "djisktras-algorithm",
+    "title": "Djisktra's Algorithm",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 377
+      }
+    ]
+  },
+  "why-priority-queue-is-used-in-djisktras-algorithm": {
+    "id": "why-priority-queue-is-used-in-djisktras-algorithm",
+    "title": "Why priority Queue is used in Djisktra's Algorithm",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 378
+      }
+    ]
+  },
+  "shortest-distance-in-a-binary-maze": {
+    "id": "shortest-distance-in-a-binary-maze",
+    "title": "Shortest Distance in a Binary Maze",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 379
+      }
+    ]
+  },
+  "path-with-minimum-effort": {
+    "id": "path-with-minimum-effort",
+    "title": "Path with minimum effort",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 380
+      }
+    ]
+  },
+  "cheapest-flight-within-k-stops": {
+    "id": "cheapest-flight-within-k-stops",
+    "title": "Cheapest flight within K stops",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 381
+      }
+    ]
+  },
+  "number-of-ways-to-arrive-at-destination": {
+    "id": "number-of-ways-to-arrive-at-destination",
+    "title": "Number of ways to arrive at destination",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 383
+      }
+    ]
+  },
+  "minimum-multiplications-to-reach-end": {
+    "id": "minimum-multiplications-to-reach-end",
+    "title": "Minimum multiplications to reach end",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 384
+      }
+    ]
+  },
+  "bellman-ford-algorithm": {
+    "id": "bellman-ford-algorithm",
+    "title": "Bellman Ford Algorithm",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 385
+      }
+    ]
+  },
+  "floyd-warshall-algorithm": {
+    "id": "floyd-warshall-algorithm",
+    "title": "Floyd warshall algorithm",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 386
+      }
+    ]
+  },
+  "find-the-city-with-the-smallest-number-of-neighbors": {
+    "id": "find-the-city-with-the-smallest-number-of-neighbors",
+    "title": "Find the city with the smallest number of neighbors",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 387
+      }
+    ]
+  },
+  "mst-theory": {
+    "id": "mst-theory",
+    "title": "MST theory",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 388
+      }
+    ]
+  },
+  "prims-algorithm": {
+    "id": "prims-algorithm",
+    "title": "Prim's Algorithm",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 389
+      }
+    ]
+  },
+  "disjoint-set": {
+    "id": "disjoint-set",
+    "title": "Disjoint Set ",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 390
+      }
+    ]
+  },
+  "find-the-mst-weight": {
+    "id": "find-the-mst-weight",
+    "title": "Find the MST weight",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 391
+      }
+    ]
+  },
+  "number-of-operations-to-make-network-connected": {
+    "id": "number-of-operations-to-make-network-connected",
+    "title": "Number of operations to make network connected",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 392
+      }
+    ]
+  },
+  "most-stones-removed-with-same-row-or-column": {
+    "id": "most-stones-removed-with-same-row-or-column",
+    "title": "Most stones removed with same row or column",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 393
+      }
+    ]
+  },
+  "accounts-merge": {
+    "id": "accounts-merge",
+    "title": "Accounts merge",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 394
+      }
+    ]
+  },
+  "number-of-islands-ii": {
+    "id": "number-of-islands-ii",
+    "title": "Number of islands II",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 395
+      }
+    ]
+  },
+  "making-a-large-island": {
+    "id": "making-a-large-island",
+    "title": "Making a large island",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 396
+      }
+    ]
+  },
+  "bridges-in-graph": {
+    "id": "bridges-in-graph",
+    "title": "Bridges in graph",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 398
+      }
+    ]
+  },
+  "articulation-point-in-graph": {
+    "id": "articulation-point-in-graph",
+    "title": "Articulation point in graph",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 399
+      }
+    ]
+  },
+  "kosarajus-algorithm": {
+    "id": "kosarajus-algorithm",
+    "title": "Kosaraju's algorithm",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 400
+      }
+    ]
+  },
+  "introduction-to-dp": {
+    "id": "introduction-to-dp",
+    "title": "Introduction to DP",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 401
+      }
+    ]
+  },
+  "frog-jump": {
+    "id": "frog-jump",
+    "title": "Frog Jump",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 403
+      }
+    ]
+  },
+  "frog-jump-with-k-distances": {
+    "id": "frog-jump-with-k-distances",
+    "title": "Frog jump with K distances",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 404
+      }
+    ]
+  },
+  "maximum-sum-of-non-adjacent-elements": {
+    "id": "maximum-sum-of-non-adjacent-elements",
+    "title": "Maximum sum of non adjacent elements",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 405
+      }
+    ]
+  },
+  "ninjas-training": {
+    "id": "ninjas-training",
+    "title": "Ninja's training",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 407
+      }
+    ]
+  },
+  "grid-unique-paths-dp-on-grids-dp8": {
+    "id": "grid-unique-paths-dp-on-grids-dp8",
+    "title": "Grid Unique Paths : DP on Grids (DP8)",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 408
+      }
+    ]
+  },
+  "unique-paths-ii": {
+    "id": "unique-paths-ii",
+    "title": "Unique paths II",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 409
+      }
+    ]
+  },
+  "minimum-falling-path-sum": {
+    "id": "minimum-falling-path-sum",
+    "title": "Minimum Falling Path Sum",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 410
+      }
+    ]
+  },
+  "triangle": {
+    "id": "triangle",
+    "title": "Triangle",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 411
+      }
+    ]
+  },
+  "ninja-and-his-friends": {
+    "id": "ninja-and-his-friends",
+    "title": "Ninja and his Friends",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 412
+      }
+    ]
+  },
+  "subset-sum-equal-to-target-dp--14": {
+    "id": "subset-sum-equal-to-target-dp--14",
+    "title": "Subset sum equal to target (DP- 14)",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 413
+      }
+    ]
+  },
+  "partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference": {
+    "id": "partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference",
+    "title": "Partition a set into two subsets with minimum absolute sum difference",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 415
+      }
+    ]
+  },
+  "count-subsets-with-sum-k": {
+    "id": "count-subsets-with-sum-k",
+    "title": "Count subsets with sum K",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 416
+      }
+    ]
+  },
+  "count-partitions-with-given-difference": {
+    "id": "count-partitions-with-given-difference",
+    "title": "Count partitions with given difference",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 417
+      }
+    ]
+  },
+  "minimum-coins-dp---20": {
+    "id": "minimum-coins-dp---20",
+    "title": "Minimum Coins (DP - 20)",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 419
+      }
+    ]
+  },
+  "coin-change-2-dp---22": {
+    "id": "coin-change-2-dp---22",
+    "title": "Coin Change 2 (DP - 22)",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 421
+      }
+    ]
+  },
+  "unbounded-knapsack": {
+    "id": "unbounded-knapsack",
+    "title": "Unbounded knapsack",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 422
+      }
+    ]
+  },
+  "rod-cutting-problem-dp---24": {
+    "id": "rod-cutting-problem-dp---24",
+    "title": "Rod Cutting Problem | (DP - 24)",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 423
+      }
+    ]
+  },
+  "print-longest-common-subsequence-dp---26": {
+    "id": "print-longest-common-subsequence-dp---26",
+    "title": "Print Longest Common Subsequence | (DP - 26)",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 425
+      }
+    ]
+  },
+  "longest-common-substring": {
+    "id": "longest-common-substring",
+    "title": "Longest common substring",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 426
+      }
+    ]
+  },
+  "longest-palindromic-subsequence": {
+    "id": "longest-palindromic-subsequence",
+    "title": "Longest palindromic subsequence",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 427
+      }
+    ]
+  },
+  "minimum-insertions-to-make-string-palindrome-dp-29": {
+    "id": "minimum-insertions-to-make-string-palindrome-dp-29",
+    "title": "Minimum insertions to make string palindrome | DP-29",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 428
+      }
+    ]
+  },
+  "minimum-insertions-or-deletions-to-convert-string-a-to-b": {
+    "id": "minimum-insertions-or-deletions-to-convert-string-a-to-b",
+    "title": "Minimum insertions or deletions to convert string A to B",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 429
+      }
+    ]
+  },
+  "shortest-common-supersequence": {
+    "id": "shortest-common-supersequence",
+    "title": "Shortest common supersequence",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 430
+      }
+    ]
+  },
+  "wildcard-matching": {
+    "id": "wildcard-matching",
+    "title": "Wildcard matching",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 433
+      }
+    ]
+  },
+  "best-time-to-buy-and-sell-stock-ii": {
+    "id": "best-time-to-buy-and-sell-stock-ii",
+    "title": "Best time to buy and sell stock II",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 435
+      }
+    ]
+  },
+  "best-time-to-buy-and-sell-stock-iii": {
+    "id": "best-time-to-buy-and-sell-stock-iii",
+    "title": "Best time to buy and sell stock III",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 436
+      }
+    ]
+  },
+  "best-time-to-buy-and-sell-stock-iv": {
+    "id": "best-time-to-buy-and-sell-stock-iv",
+    "title": "Best time to buy and sell stock IV",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 437
+      }
+    ]
+  },
+  "best-time-to-buy-and-sell-stock-with-transaction-fees": {
+    "id": "best-time-to-buy-and-sell-stock-with-transaction-fees",
+    "title": "Best time to buy and sell stock with transaction fees",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 439
+      }
+    ]
+  },
+  "print-longest-increasing-subsequence": {
+    "id": "print-longest-increasing-subsequence",
+    "title": "Print Longest Increasing Subsequence",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 441
+      }
+    ]
+  },
+  "longest-increasing-subsequence-dp-43": {
+    "id": "longest-increasing-subsequence-dp-43",
+    "title": "Longest Increasing Subsequence |(DP-43)",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 442
+      }
+    ]
+  },
+  "largest-divisible-subset": {
+    "id": "largest-divisible-subset",
+    "title": "Largest Divisible Subset",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 443
+      }
+    ]
+  },
+  "longest-string-chain": {
+    "id": "longest-string-chain",
+    "title": "Longest String Chain",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 444
+      }
+    ]
+  },
+  "longest-bitonic-subsequence": {
+    "id": "longest-bitonic-subsequence",
+    "title": "Longest Bitonic Subsequence",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 445
+      }
+    ]
+  },
+  "number-of-longest-increasing-subsequences": {
+    "id": "number-of-longest-increasing-subsequences",
+    "title": "Number of Longest Increasing Subsequences",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 446
+      }
+    ]
+  },
+  "matrix-chain-multiplication": {
+    "id": "matrix-chain-multiplication",
+    "title": "Matrix chain multiplication",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 447
+      }
+    ]
+  },
+  "matrix-chain-multiplication-bottom-updp-49": {
+    "id": "matrix-chain-multiplication-bottom-updp-49",
+    "title": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 448
+      }
+    ]
+  },
+  "minimum-cost-to-cut-the-stick": {
+    "id": "minimum-cost-to-cut-the-stick",
+    "title": "Minimum cost to cut the stick",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 449
+      }
+    ]
+  },
+  "different-ways-to-evaluate-a-boolean-expression": {
+    "id": "different-ways-to-evaluate-a-boolean-expression",
+    "title": "Different Ways to Evaluate a Boolean Expression",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 451
+      }
+    ]
+  },
+  "palindrome-partitioning-ii": {
+    "id": "palindrome-partitioning-ii",
+    "title": "Palindrome partitioning II ",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 452
+      }
+    ]
+  },
+  "partition-array-for-maximum-sum": {
+    "id": "partition-array-for-maximum-sum",
+    "title": "Partition Array for Maximum Sum",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 453
+      }
+    ]
+  },
+  "maximum-rectangle-area-with-all-1sdp-55": {
+    "id": "maximum-rectangle-area-with-all-1sdp-55",
+    "title": "Maximum Rectangle Area with all 1's|(DP-55)",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 454
+      }
+    ]
+  },
+  "count-square-submatrices-with-all-onesdp-56": {
+    "id": "count-square-submatrices-with-all-onesdp-56",
+    "title": "Count Square Submatrices with All Ones|(DP-56)",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 455
+      }
+    ]
+  },
+  "trie-implementation-and-operations": {
+    "id": "trie-implementation-and-operations",
+    "title": "Trie Implementation and Operations",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 456
+      }
+    ]
+  },
+  "trie-implementation-and-advanced-operations": {
+    "id": "trie-implementation-and-advanced-operations",
+    "title": "Trie Implementation and Advanced Operations",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 457
+      }
+    ]
+  },
+  "longest-word-with-all-prefixes": {
+    "id": "longest-word-with-all-prefixes",
+    "title": "Longest Word with All Prefixes",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 458
+      }
+    ]
+  },
+  "number-of-distinct-substrings-in-a-string": {
+    "id": "number-of-distinct-substrings-in-a-string",
+    "title": "Number of distinct substrings in a string",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 459
+      }
+    ]
+  },
+  "bit-prerequisites-for-trie-problems": {
+    "id": "bit-prerequisites-for-trie-problems",
+    "title": "Bit PreRequisites for TRIE Problems",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 460
+      }
+    ]
+  },
+  "maximum-xor-of-two-numbers-in-an-array": {
+    "id": "maximum-xor-of-two-numbers-in-an-array",
+    "title": "Maximum XOR of two numbers in an array",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 461
+      }
+    ]
+  },
+  "maximum-xor-with-an-element-from-an-array": {
+    "id": "maximum-xor-with-an-element-from-an-array",
+    "title": "Maximum Xor with an element from an array",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 462
+      }
+    ]
+  },
+  "minimum-number-of-bracket-reversals-to-make-an-expression-balanced": {
+    "id": "minimum-number-of-bracket-reversals-to-make-an-expression-balanced",
+    "title": "Minimum number of bracket reversals to make an expression balanced",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 463
+      }
+    ]
+  },
+  "count-and-say": {
+    "id": "count-and-say",
+    "title": "Count and say",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 464
+      }
+    ]
+  },
+  "hashing-in-strings-theory": {
+    "id": "hashing-in-strings-theory",
+    "title": "Hashing In Strings | Theory",
+    "difficulty": "EASY",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 465
+      }
+    ]
+  },
+  "rabin-karp-algorithm": {
+    "id": "rabin-karp-algorithm",
+    "title": "Rabin Karp Algorithm",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 466
+      }
+    ]
+  },
+  "z-function": {
+    "id": "z-function",
+    "title": "Z function",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 467
+      }
+    ]
+  },
+  "kmp-algorithm-or-lps-array": {
+    "id": "kmp-algorithm-or-lps-array",
+    "title": "KMP Algorithm or LPS array",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 468
+      }
+    ]
+  },
+  "shortest-palindrome": {
+    "id": "shortest-palindrome",
+    "title": "Shortest Palindrome",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 469
+      }
+    ]
+  },
+  "longest-happy-prefix": {
+    "id": "longest-happy-prefix",
+    "title": "Longest happy prefix",
+    "difficulty": "HARD",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 470
+      }
+    ]
+  },
+  "count-palindromic-subsequences": {
+    "id": "count-palindromic-subsequences",
+    "title": "Count Palindromic Subsequences",
+    "difficulty": "MEDIUM",
+    "category": "General",
+    "sheets": [
+      {
+        "sheet": "STRIVER_A2Z",
+        "position": 471
+      }
+    ]
+  }
+}

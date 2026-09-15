@@ -1,0 +1,2357 @@
+[
+  {
+    "striver_id": "425",
+    "title": "Input Output",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "1211",
+    "title": "Cpp Basics",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "424",
+    "title": "If ElseIf",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "429",
+    "title": "Switch Case",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2869",
+    "title": "What are arrays, strings?",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2867",
+    "title": "For loops",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2868",
+    "title": "While loops",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "1219",
+    "title": "Theory with examples",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "1216",
+    "title": "Easy and Medium",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "1205",
+    "title": "Hard",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "401",
+    "title": "Pattern 1",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "412",
+    "title": "Pattern 2",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "416",
+    "title": "Pattern 3",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "417",
+    "title": "Pattern 4",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "418",
+    "title": "Pattern 5",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "419",
+    "title": "Pattern 6",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "420",
+    "title": "Pattern 7",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "421",
+    "title": "Pattern 8",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "422",
+    "title": "Pattern 9",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "402",
+    "title": "Pattern 10",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "403",
+    "title": "Pattern 11",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "404",
+    "title": "Pattern 12",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "405",
+    "title": "Pattern 13",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "406",
+    "title": "Pattern 14",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "407",
+    "title": "Pattern 15",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "408",
+    "title": "Pattern 16",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "409",
+    "title": "Pattern 17",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "410",
+    "title": "Pattern 18",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "411",
+    "title": "Pattern 19",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "413",
+    "title": "Pattern 20",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "414",
+    "title": "Pattern 21",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "415",
+    "title": "Pattern 22",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "1218",
+    "title": "STL",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "1217",
+    "title": "Java Collections",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "367",
+    "title": "Count all Digits of a Number",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "376",
+    "title": "Reverse a number",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "374",
+    "title": "Palindrome Number",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "372",
+    "title": "GCD of Two Numbers",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "366",
+    "title": "Check if the Number is Armstrong",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2807",
+    "title": "Print all Divisors",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "365",
+    "title": "Check for Prime Number",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2401",
+    "title": "Understand recursion by print something N times",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2405",
+    "title": "Print name N times using recursion",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "850",
+    "title": "Print 1 to N using Recursion",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "852",
+    "title": "Print N to 1 using Recursion",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "371",
+    "title": "Factorial of a given number",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "342",
+    "title": "Reverse an array",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "378",
+    "title": "Check if String is Palindrome or Not ",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "381",
+    "title": "Fibonacci Number",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "1203",
+    "title": "Basic Hashing",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "252",
+    "title": "Counting Frequencies of Array Elements",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "344",
+    "title": "Highest Occurring Element in an Array",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "947",
+    "title": "Selection Sort",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "943",
+    "title": "Bubble Sort",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "944",
+    "title": "Insertion Sorting",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "945",
+    "title": "Merge Sorting",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "881",
+    "title": "Recursive Bubble Sort",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "882",
+    "title": "Recursive Insertion Sort",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "946",
+    "title": "Quick Sorting",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "38",
+    "title": "Largest Element ",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "43",
+    "title": "Second Largest Element",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "379",
+    "title": "Check if the Array is Sorted II",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2764",
+    "title": "Remove duplicates from Sorted array",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "40",
+    "title": "Left Rotate Array by One",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "39",
+    "title": "Left Rotate Array by K Places",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "46",
+    "title": "Move Zeros to End",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "41",
+    "title": "Linear Search",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "48",
+    "title": "Union of two sorted arrays",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "44",
+    "title": "Find missing number",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "42",
+    "title": "Maximum Consecutive Ones",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2793",
+    "title": "Find the number that appears once, and other numbers twice.",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2836",
+    "title": "Longest subarray with given sum K(positives)",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "564",
+    "title": "Longest subarray with sum K",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "37",
+    "title": "Two Sum",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2762",
+    "title": "Sort an array of 0's 1's and 2's",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "22",
+    "title": "Majority Element-I",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "29",
+    "title": "Kadane's Algorithm",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2761",
+    "title": "Print subarray with maximum subarray sum (extended version of above problem)",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2798",
+    "title": "Stock Buy and Sell",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "34",
+    "title": "Rearrange array elements by sign",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "31",
+    "title": "Next Permutation",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "30",
+    "title": "Leaders in an Array",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2835",
+    "title": "Longest Consecutive Sequence in an Array",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "911",
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "35",
+    "title": "Rotate matrix by 90 degrees",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "33",
+    "title": "Print the matrix in spiral manner",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "561",
+    "title": "Count subarrays with given sum",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "813",
+    "title": "Pascal's Triangle I",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "23",
+    "title": "Majority Element-II",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "27",
+    "title": "3 Sum",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "28",
+    "title": "4 Sum",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "605",
+    "title": "Largest Subarray with Sum 0",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "562",
+    "title": "Count subarrays with given xor K",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "715",
+    "title": "Merge Overlapping Subintervals",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "25",
+    "title": "Merge two sorted arrays without extra space",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "21",
+    "title": "Find the repeating and missing number",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "20",
+    "title": "Count Inversions",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "26",
+    "title": "Reverse Pairs",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "24",
+    "title": "Maximum Product Subarray in an Array",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "81",
+    "title": "Search X in sorted array",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "80",
+    "title": "Lower Bound ",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "82",
+    "title": "Upper Bound",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "86",
+    "title": "Floor and Ceil in Sorted Array",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "85",
+    "title": "First and last occurrence",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "229",
+    "title": "Count Occurrences in a Sorted Array",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "87",
+    "title": "Search in rotated sorted array-I",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "88",
+    "title": "Search in rotated sorted array-II",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "83",
+    "title": "Find minimum in Rotated Sorted Array",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "84",
+    "title": "Find out how many times the array is rotated",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2770",
+    "title": "Single element in a Sorted Array",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "75",
+    "title": "Find peak element",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "92",
+    "title": "Find square root of a number",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "91",
+    "title": "Find Nth root of a number",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "94",
+    "title": "Koko eating bananas",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "95",
+    "title": "Minimum days to make M bouquets",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "93",
+    "title": "Find the smallest divisor",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "161",
+    "title": "Capacity to Ship Packages Within D Days",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "600",
+    "title": "Kth Missing Positive Number",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "73",
+    "title": "Aggressive Cows",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "74",
+    "title": "Book Allocation Problem",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "79",
+    "title": "Split array - largest sum",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "805",
+    "title": "Painter's Partition",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "78",
+    "title": "Minimize Max Distance to Gas Station",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "77",
+    "title": "Median of 2 sorted arrays",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2767",
+    "title": "Kth element of 2 sorted arrays",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "66",
+    "title": "Find row with maximum 1's",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "69",
+    "title": "Search in a 2D matrix",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "68",
+    "title": "Search in 2D matrix - II",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "65",
+    "title": "Find Peak Element - II",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "67",
+    "title": "Matrix Median",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "892",
+    "title": "Remove Outermost Parentheses",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2863",
+    "title": "Reverse words in a given string / Palindrome Check",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "394",
+    "title": "Largest Odd Number in a String",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "395",
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "393",
+    "title": "Isomorphic String",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "398",
+    "title": "Rotate String",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2809",
+    "title": "Check if two strings are anagram of each other",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "399",
+    "title": "Sort Characters by Frequency",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "674",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "903",
+    "title": "Roman to Integer",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "974",
+    "title": "String to Integer (atoi)",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2394",
+    "title": "Count Number of Substrings",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "638",
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "993",
+    "title": "Sum of Beauty of All Substrings",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "984",
+    "title": "Reverse every word in a string",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "1237",
+    "title": "Introduction to Singly LinkedList",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "356",
+    "title": "Insertion at the head of Linked List",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "352",
+    "title": "Deletion of the head of LL",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "470",
+    "title": "Find the length of the Linked List",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "905",
+    "title": "Search in Linked List",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "1234",
+    "title": "Introduction to Doubly LL",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "361",
+    "title": "Insert node before head in Doubly Linked List",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "348",
+    "title": "Delete head of Doubly Linked List",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "900",
+    "title": "Reverse a Doubly Linked List",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2810",
+    "title": "Middle of a LinkedList [TortoiseHare Method]",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2850",
+    "title": "Reverse a LinkedList [Iterative]",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "627",
+    "title": "Reverse a LL",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2845",
+    "title": "Detect a loop in LL",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2847",
+    "title": "Find the starting point in LL",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "623",
+    "title": "Length of loop in LL",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2844",
+    "title": "Check if LL is palindrome or not",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "628",
+    "title": "Segregate odd and even nodes in Linked List",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2849",
+    "title": "Remove Nth node from the back of the LL",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "619",
+    "title": "Delete the middle node in LL",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "616",
+    "title": "Sort LL",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "629",
+    "title": "Sort a Linked List of 0's 1's and 2's",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2846",
+    "title": "Find the intersection point of Y LL",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "617",
+    "title": "Add one to a number represented by LL",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "625",
+    "title": "Add two numbers in Linked List",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "609",
+    "title": "Delete all occurrences of a key in DLL",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "452",
+    "title": "Find Pairs with Given Sum in Doubly Linked List",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "610",
+    "title": "Remove duplicates from sorted DLL",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2842",
+    "title": "Reverse LL in group of given size K",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2843",
+    "title": "Rotate a LL",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2841",
+    "title": "Flattening of LL",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "611",
+    "title": "Clone a LL with random and next pointer",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2862",
+    "title": "Recursive Implementation of atoi()",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2855",
+    "title": "Pow(x, n)",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "222",
+    "title": "Count Good Numbers",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2858",
+    "title": "Sort a stack using recursion",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "901",
+    "title": "Reverse a Stack",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "493",
+    "title": "Generate Binary Strings Without Consecutive 1s",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "876",
+    "title": "Generate Parentheses",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "878",
+    "title": "Power Set",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2400",
+    "title": "Learn All Patterns of Subsequences (Theory)",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "880",
+    "title": "Count all subsequences with sum K",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "879",
+    "title": "Check if there exists a subsequence with sum K",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "864",
+    "title": "Combination Sum",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "865",
+    "title": "Combination Sum II",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "867",
+    "title": "Subsets I",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "868",
+    "title": "Subsets II",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "866",
+    "title": "Combination Sum III",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "875",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "871",
+    "title": "Palindrome partitioning",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "874",
+    "title": "Word Search",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "870",
+    "title": "N Queen",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "872",
+    "title": "Rat in a Maze",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "4",
+    "title": "Word Break",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "869",
+    "title": "M Coloring Problem",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "873",
+    "title": "Sudoku Solver",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "3",
+    "title": "Expression Add Operators",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "1155",
+    "title": "Introduction to Bits and Tricks",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "177",
+    "title": "Check if the i-th bit is Set or Not",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "171",
+    "title": "Check if a Number is Odd or Not",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "172",
+    "title": "Check if a Number is Power of 2 or Not",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "243",
+    "title": "Count the Number of Set Bits",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2410",
+    "title": "Set/Unset the rightmost unset bit",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "1005",
+    "title": "Swap Two Numbers",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "140",
+    "title": "Divide two numbers without multiplication and division",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "141",
+    "title": "Minimum Bit Flips to Convert Number",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "143",
+    "title": "Single Number - I",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "142",
+    "title": "Power Set Bit Manipulation",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "146",
+    "title": "XOR of numbers in a given range",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "145",
+    "title": "Single Number - III",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2853",
+    "title": "Print Prime Factors of a Number",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "370",
+    "title": "Divisors of a Number",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "651",
+    "title": "Count primes in range L to R",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "652",
+    "title": "Prime factorisation of a Number",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "877",
+    "title": "Pow(x,n)",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "390",
+    "title": "Implement Stack using Arrays",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "387",
+    "title": "Implement Queue using Arrays",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "392",
+    "title": "Implement Stack using Queue",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "389",
+    "title": "Implement Queue using Stack",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "391",
+    "title": "Implement stack using Linkedlist",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "388",
+    "title": "Implement queue using Linkedlist",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "966",
+    "title": "Balanced Paranthesis",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "958",
+    "title": "Implement Min Stack",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "586",
+    "title": "Infix to Postfix Conversion",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "848",
+    "title": "Prefix to Infix Conversion",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "849",
+    "title": "Prefix to Postfix Conversion",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "825",
+    "title": "Postfix to Prefix Conversion",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "824",
+    "title": "Postfix to Infix Conversion",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "587",
+    "title": "Infix to Prefix Conversion",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "968",
+    "title": "Next Greater Element",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "969",
+    "title": "Next Greater Element - 2",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "768",
+    "title": "Next Smaller Element",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "285",
+    "title": "Number of Greater Elements to the Right",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "965",
+    "title": "Trapping Rainwater",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "971",
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "967",
+    "title": "Asteroid Collision",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "972",
+    "title": "Sum of Subarray Ranges",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "970",
+    "title": "Remove K Digits",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "959",
+    "title": "Largest rectangle in a histogram",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "962",
+    "title": "Maximum Rectangles",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "963",
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "964",
+    "title": "Stock span problem",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "957",
+    "title": "Celebrity Problem",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "961",
+    "title": "LRU Cache",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "960",
+    "title": "LFU Cache",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2857",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "930",
+    "title": " Max Consecutive Ones III",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "926",
+    "title": " Fruit Into Baskets",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "927",
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "923",
+    "title": "Binary Subarrays With Sum",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "924",
+    "title": "Count number of Nice subarrays",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "925",
+    "title": "Number of Substrings Containing All Three Characters",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "922",
+    "title": "Maximum Points You Can Obtain from Cards ",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "928",
+    "title": "Longest Substring With At Most K Distinct Characters",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "988",
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "931",
+    "title": "Minimum Window Substring ",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "754",
+    "title": "Minimum Window Subsequence",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "1223",
+    "title": "Heaps (Theory Video)",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "576",
+    "title": "Implement Min Heap",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "571",
+    "title": "Check if an array represents a min heap ",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "572",
+    "title": "Convert Min Heap to Max Heap",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "578",
+    "title": "K-th Largest element in an array",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2840",
+    "title": "Kth smallest element in an array [use priority queue]",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2409",
+    "title": "Sort K sorted array",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "569",
+    "title": "Merge K sorted Lists",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "898",
+    "title": "Replace Elements by Their Rank",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "1008",
+    "title": "Task Scheduler",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "556",
+    "title": "Hand of Straights",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "565",
+    "title": "Design Twitter",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "755",
+    "title": "Mi",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2838",
+    "title": "Kth largest element in a stream of running integers",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "568",
+    "title": "Maximum Sum Combination",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "566",
+    "title": "Find Median from Data Stream",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "1018",
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2834",
+    "title": "Assign Cookies",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "489",
+    "title": "Fractional Knapsack",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "543",
+    "title": "Lemonade Change",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "545",
+    "title": "Valid Paranthesis Checker",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "549",
+    "title": "N meetings in one room",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "542",
+    "title": "Jump Game - I",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "595",
+    "title": "Jump Game II",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "548",
+    "title": "Minimum number of platforms required for a railway",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "547",
+    "title": "Job sequencing Problem",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "544",
+    "title": "Candy",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "551",
+    "title": "Shortest Job First",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2859",
+    "title": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "546",
+    "title": "Insert Interval",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "712",
+    "title": "Merge Intervals",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "550",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2865",
+    "title": "Introduction to Trees",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2864",
+    "title": "Binary Tree Representation in Java",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "136",
+    "title": "Pre, Post, Inorder in one traversal",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "137",
+    "title": "Preorder Traversal",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2785",
+    "title": "Inorder Traversal of Binary Tree",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "135",
+    "title": "Postorder Traversal",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "134",
+    "title": "Level Order Traversal",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2872",
+    "title": "Iterative Preorder Traversal of Binary Tree",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2786",
+    "title": "Iterative Inorder Traversal of Binary Tree",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2788",
+    "title": "Post-order Traversal of Binary Tree using 2 stack",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2787",
+    "title": "Post-order Traversal of Binary Tree using 1 stack",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2789",
+    "title": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "131",
+    "title": "Maximum Depth in BT",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "127",
+    "title": "Check for balanced binary tree",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "130",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "132",
+    "title": "Maximum path sum ",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "129",
+    "title": "Check if two trees are identical or not",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "126",
+    "title": "Zig Zag or Spiral Traversal",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "116",
+    "title": "Boundary Traversal",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "125",
+    "title": "Vertical Order Traversal",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "124",
+    "title": "Top View of BT",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "115",
+    "title": "Bottom view of BT",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2782",
+    "title": "Right/Left View of Binary Tree",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2784",
+    "title": "Symmetric Binary Tree",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "122",
+    "title": "Print root to leaf path in BT",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "118",
+    "title": "LCA in BT",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "119",
+    "title": "Maximum Width of BT",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "185",
+    "title": "Children Sum Property in Binary Tree",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "121",
+    "title": "Print all nodes at a distance of K in BT",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "120",
+    "title": "Minimum time taken to burn the BT from a given Node",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "117",
+    "title": "Count total nodes in a complete BT",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "111",
+    "title": "Requirements needed to construct a unique BT",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "110",
+    "title": "Construct a BT from Preorder and Inorder",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2781",
+    "title": "Construct the Binary Tree from Postorder and Inorder Traversal",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "112",
+    "title": "Serialize and De-serialize BT",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2791",
+    "title": "Morris Preorder Traversal of a Binary Tree",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2792",
+    "title": "Morris Inorder Traversal of a Binary Tree",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "486",
+    "title": "Flatten Binary Tree to Linked List",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "1153",
+    "title": "Introduction to BST",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2780",
+    "title": "Search in a Binary Search Tree",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2398",
+    "title": "Find Min/Max in BST",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "107",
+    "title": "Floor and Ceil in a BST",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2778",
+    "title": "Floor in a Binary Search Tree",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "104",
+    "title": "Insert a given node in BST",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "102",
+    "title": "Delete a node in BST",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "105",
+    "title": "Kth Smallest and Largest element in BST",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "100",
+    "title": "Check if a tree is a BST or not",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "106",
+    "title": "LCA in BST",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "101",
+    "title": "Construct a BST from a preorder traversal",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2775",
+    "title": "Inorder Successor/Predecessor in BST",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2772",
+    "title": "Merge 2 BST's",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2774",
+    "title": "Two Sum In BST | Check if there exists a pair with Sum K",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "97",
+    "title": "Correct BST with two nodes swapped",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "98",
+    "title": "Largest BST in Binary Tree",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "1222",
+    "title": "Introduction to Graph",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2870",
+    "title": "Graph Representation | C++",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2871",
+    "title": "Graph Representation | Java",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "528",
+    "title": "Connected Compone",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "529",
+    "title": "Traversal Techniques",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2831",
+    "title": "DFS",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "535",
+    "title": "Number of provinces",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2830",
+    "title": "Connected Components Problem in Matrix",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "536",
+    "title": "Rotten Oranges",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "531",
+    "title": "Flood fill algorithm",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2817",
+    "title": "Cycle Detection in Undirected Graph (bfs)",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "501",
+    "title": "Detect a cycle in an undirected graph",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "530",
+    "title": "Distance of nearest cell having one",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "537",
+    "title": "Surrounded Regions",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "533",
+    "title": "Number of enclaves",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "509",
+    "title": "Word ladder I",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "510",
+    "title": "Word ladder II",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "534",
+    "title": "Number of islands",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2813",
+    "title": "Bipartite Graph (DFS)",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2814",
+    "title": "Cycle Detection in Directed Graph (DFS)",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2822",
+    "title": "Topo Sort",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "502",
+    "title": "Topological sort or Kahn's algorithm",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "500",
+    "title": "Detect a cycle in a directed graph",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "504",
+    "title": "Course Schedule I",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "505",
+    "title": "Course Schedule II",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "506",
+    "title": "Find eventual safe states",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "503",
+    "title": "Alien Dictionary",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "508",
+    "title": "Shortest path in undirected graph with unit weights",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "507",
+    "title": "Shortest path in DAG",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2827",
+    "title": "Djisktra's Algorithm",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2828",
+    "title": "Why priority Queue is used in Djisktra's Algorithm",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "527",
+    "title": "Shortest Distance in a Binary Maze",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "525",
+    "title": "Path with minimum effort",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "519",
+    "title": "Cheapest flight within K stops",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "764",
+    "title": "Network Delay Time",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "524",
+    "title": "Number of ways to arrive at destination",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "523",
+    "title": "Minimum multiplications to reach end",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2826",
+    "title": "Bellman Ford Algorithm",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "522",
+    "title": "Floyd warshall algorithm",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "521",
+    "title": "Find the city with the smallest number of neighbors",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "1221",
+    "title": "MST theory",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2825",
+    "title": "Prim's Algorithm",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "516",
+    "title": "Disjoint Set ",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "517",
+    "title": "Find the MST weight",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "515",
+    "title": "Number of operations to make network connected",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "513",
+    "title": "Most stones removed with same row or column",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "511",
+    "title": "Accounts merge",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "514",
+    "title": "Number of islands II",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "512",
+    "title": "Making a large island",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "1006",
+    "title": "Swim in Rising Water",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "497",
+    "title": "Bridges in graph",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "496",
+    "title": "Articulation point in graph",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "498",
+    "title": "Kosaraju's algorithm",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "1195",
+    "title": "Introduction to DP",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "287",
+    "title": "Climbing stairs",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "288",
+    "title": "Frog Jump",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "289",
+    "title": "Frog jump with K distances",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "291",
+    "title": "Maximum sum of non adjacent elements",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "290",
+    "title": "House robber",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "292",
+    "title": "Ninja's training",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2795",
+    "title": "Grid Unique Paths : DP on Grids (DP8)",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "300",
+    "title": "Unique paths II",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "298",
+    "title": "Minimum Falling Path Sum",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "299",
+    "title": "Triangle",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "769",
+    "title": "Ninja and his Friends",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2804",
+    "title": "Subset sum equal to target (DP- 14)",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "321",
+    "title": "Partition equal subset sum",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "320",
+    "title": "Partition a set into two subsets with minimum absolute sum difference",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "318",
+    "title": "Count subsets with sum K",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "317",
+    "title": "Count partitions with given difference",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "541",
+    "title": "Assign Cookies",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "2802",
+    "title": "Minimum Coins (DP - 20)",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "324",
+    "title": "Target sum",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2801",
+    "title": "Coin Change 2 (DP - 22)",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "325",
+    "title": "Unbounded knapsack",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2803",
+    "title": "Rod Cutting Problem | (DP - 24)",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "308",
+    "title": "Longest common subsequence",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2799",
+    "title": "Print Longest Common Subsequence | (DP - 26)",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "309",
+    "title": "Longest common substring",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "310",
+    "title": "Longest palindromic subsequence",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2800",
+    "title": "Minimum insertions to make string palindrome | DP-29",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "311",
+    "title": "Minimum insertions or deletions to convert string A to B",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "313",
+    "title": "Shortest common supersequence",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "306",
+    "title": "Distinct subsequences",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "307",
+    "title": "Edit distance",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "314",
+    "title": "Wildcard matching",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "301",
+    "title": "Best time to buy and sell stock",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "302",
+    "title": "Best time to buy and sell stock II",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "303",
+    "title": "Best time to buy and sell stock III",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "304",
+    "title": "Best time to buy and sell stock IV",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "56",
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "305",
+    "title": "Best time to buy and sell stock with transaction fees",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "636",
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "851",
+    "title": "Print Longest Increasing Subsequence",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2851",
+    "title": "Longest Increasing Subsequence |(DP-43)",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "603",
+    "title": "Largest Divisible Subset",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "640",
+    "title": "Longest String Chain",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "633",
+    "title": "Longest Bitonic Subsequence",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "780",
+    "title": "Number of Longest Increasing Subsequences",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "327",
+    "title": "Matrix chain multiplication",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2806",
+    "title": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "328",
+    "title": "Minimum cost to cut the stick",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "326",
+    "title": "Burst balloons",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "276",
+    "title": "Different Ways to Evaluate a Boolean Expression",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "329",
+    "title": "Palindrome partitioning II ",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "810",
+    "title": "Partition Array for Maximum Sum",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2860",
+    "title": "Maximum Rectangle Area with all 1's|(DP-55)",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2395",
+    "title": "Count Square Submatrices with All Ones|(DP-56)",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "1028",
+    "title": "Trie Implementation and Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "1027",
+    "title": "Trie Implementation and Advanced Operations",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "1023",
+    "title": "Longest Word with All Prefixes",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "1026",
+    "title": "Number of distinct substrings in a string",
+    "difficulty": "Medium"
+  },
+  {
+    "striver_id": "2390",
+    "title": "Bit PreRequisites for TRIE Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "1024",
+    "title": "Maximum XOR of two numbers in an array",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "1025",
+    "title": "Maximum Xor with an element from an array",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "983",
+    "title": "Minimum number of bracket reversals to make an expression balanced",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "982",
+    "title": "Count and say",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "2399",
+    "title": "Hashing In Strings | Theory",
+    "difficulty": "Easy"
+  },
+  {
+    "striver_id": "979",
+    "title": "Rabin Karp Algorithm",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "981",
+    "title": "Z function",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "977",
+    "title": "KMP Algorithm or LPS array",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "980",
+    "title": "Shortest Palindrome",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "978",
+    "title": "Longest happy prefix",
+    "difficulty": "Hard"
+  },
+  {
+    "striver_id": "231",
+    "title": "Count Palindromic Subsequences",
+    "difficulty": "Medium"
+  }
+]
